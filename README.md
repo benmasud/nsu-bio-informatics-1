@@ -8,9 +8,10 @@
     <li><strong>Тип II:</strong> дефицит только активности гидратазы.</li>
     <li><strong>Тип III:</strong> дефицит только активности дегидрогеназы.</li>
 </ul>
-Общие клинические особенности включают младенческую гипотонию, судороги и аномальные черты лица. У большинства пациентов с любым из этих подтипов наблюдается тяжелый фенотип, который обычно приводит к смерти в возрасте до двух лет. Однако был предложен более мягкий фенотип - дефицит типа IV, напоминающий синдром Перро, который может быть недостаточно диагностирован. Сам синдром Перро характеризуется нейросенсорной тугоухостью как у мужчин, так и у женщин, а также дисфункцией яичников у женщин.
+Общие клинические особенности включают **младенческую гипотонию**, **судороги** и **аномальные черты лица**. У большинства пациентов с любым из этих подтипов наблюдается **тяжелый фенотип**, который обычно приводит к **смерти в возрасте до двух лет**. Однако был предложен **более мягкий фенотип - дефицит типа IV**, напоминающий **синдром Перро**, который может быть **недостаточно диагностирован**. Сам **синдром Перро** характеризуется **нейросенсорной тугоухостью** как у мужчин, так и у женщин, а также **дисфункцией яичников у женщин**.
 <br>
-Common clinical features include infantile hypotonia, seizures, and abnormal facial features. Most patients with any of these subtypes have a severe phenotype that usually results in death before the age of two years. However, a milder phenotype, type IV deficiency, resembling Perrault syndrome, has been proposed and may be underdiagnosed. Perrault syndrome itself is characterized by sensorineural hearing loss in both men and women, as well as ovarian dysfunction in women.
+Common clinical features include **infantile hypotonia**, **seizures**, and **abnormal facial features**. Most patients with any of these subtypes have a **severe phenotype** that usually results in **death before the age of two years**. However, a **milder phenotype**, **type IV deficiency**, resembling **Perrault syndrome**, has been proposed and may be **underdiagnosed**. **Perrault syndrome** itself is characterized by **sensorineural hearing loss** in both men and women, as well as **ovarian dysfunction** in women.
+<br>
 
 Я обнаружил два человеческих гена, связанных с дефицитом D-бифункционального белка (дефицит ДАД):
 <ul>
