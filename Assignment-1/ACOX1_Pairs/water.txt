@@ -1,0 +1,1095 @@
+########################################
+# Program: water
+# Rundate: Sun 31 Mar 2024 05:52:47
+# Commandline: water
+#    -auto
+#    -stdout
+#    -asequence emboss_water-I20240331-055238-0428-11292057-p1m.asequence
+#    -bsequence emboss_water-I20240331-055238-0428-11292057-p1m.bsequence
+#    -datafile EDNAFULL
+#    -gapopen 10.0
+#    -gapextend 0.5
+#    -aformat3 pair
+#    -snucleotide1
+#    -snucleotide2
+# Align_format: pair
+# Report_file: stdout
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: c75979166-75941507
+# 2: c116089605-116062714
+# Matrix: EDNAFULL
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 13177
+# Identity:    5782/13177 (43.9%)
+# Similarity:  5782/13177 (43.9%)
+# Gaps:        5814/13177 (44.1%)
+# Score: 10407.0
+# 
+#
+#=======================================
+
+c75979166-759     33 GGATTTAGATTGTCA------------CTGCCACCTCGGTCGGTGCTTAC     70
+                     |||...||.||||||            |||.|||.||.||||...|.|.|
+c116089605-11      1 GGAGACAGGTTGTCATCGCTTTGGTGCCTGTCACTTCTGTCGCCACCTCC     50
+
+c75979166-759     71 TTCGCTGCCAG--CTGGTCGTCGCCATGAACCCGGACCTGCGCAGGGAGC    118
+                     |..||..||||  ||||||..||.||||||.||.||.|||||||.|||||
+c116089605-11     51 TCTGCCCCCAGCACTGGTCTCCGTCATGAATCCCGATCTGCGCAAGGAGC    100
+
+c75979166-759    119 GGGATTCCGCCAGCTTCAACCCGGAGCTGCTTACACACATCCTGGACGGC    168
+                     |||...||||||.||||||.||.|||.|..|.||.||||||.||||.||.
+c116089605-11    101 GGGCCGCCGCCACCTTCAATCCAGAGTTAATCACGCACATCTTGGATGGT    150
+
+c75979166-759    169 AGCCCCGAGAAAACCCGGCGCCGCCGAGAGATCGGTGAG---GGCGG--C    213
+                     ||.||.|||||.|||||||||||.|||||.|||||||||   ||.||  |
+c116089605-11    151 AGTCCGGAGAACACCCGGCGCCGTCGAGAAATCGGTGAGCCTGGAGGGCC    200
+
+c75979166-759    214 GGGCGAGACCTCCCTCCTTTCCCGAGAAAAGCTGG----AGACTCCC-TC    258
+                     |||         ||||.|.|.|||    ||.|.||    ||||.||| |.
+c116089605-11    201 GGG---------CCTCTTATACCG----AACCAGGCGAAAGACCCCCGTG    237
+
+c75979166-759    259 GATGCGGAGTCAGGGGCGCTGTGGGGCCTAGGCCCTCTGGCCCAGCGTT-    307
+                     .|||.|||           |.|||||       ||||||     |.||| 
+c116089605-11    238 AATGAGGA-----------TTTGGGG-------CCTCTG-----GAGTTG    264
+
+c75979166-759    308 AGGGG-AGCCGGGACCCCCACTTCGAGGAACAGCCTGTGTCCCTGG--TG    354
+                     ||||| |||.||||||||.|||||||.|..|..||.||||  |.||  |.
+c116089605-11    265 AGGGGAAGCGGGGACCCCTACTTCGATGGGCGTCCGGTGT--CAGGATTA    312
+
+c75979166-759    355 GGGGGATATCGCCATTCCCCAGGTGTGTCCGCGACTCTGAAGCCTATTGT    404
+                     ||.||..|.||    |||.|.|.|       |.|.|||||       ||.
+c116089605-11    313 GGAGGGGAACG----TCCTCTGTT-------CTAATCTGA-------TGG    344
+
+c75979166-759    405 GATTCAGGGAGGGTGGAACGGAGGCCCGAGTGTCTGTCTGCCTTTTAATG    454
+                     ||.|||||||||||             ||||..||||.|  ||.||.|||
+c116089605-11    345 GAGTCAGGGAGGGT-------------GAGTACCTGTTT--CTCTTGATG    379
+
+c75979166-759    455 CCCTTTAACCCCCTTTCAGAGAACATGATCCTGAACGACCCAGACTTCCA    504
+                     .|.||||||||.||||||||||||.||||.||||||||.|||||||||||
+c116089605-11    380 TCATTTAACCCTCTTTCAGAGAACTTGATTCTGAACGATCCAGACTTCCA    429
+
+c75979166-759    505 GCATGAGGACTTGAACTTCCTCACTCGCAGCCAGCGTTATGAGGTGGCTG    554
+                     .||||||||||..||||||||||||||.|||||||||||.||||||||||
+c116089605-11    430 ACATGAGGACTATAACTTCCTCACTCGAAGCCAGCGTTACGAGGTGGCTG    479
+
+c75979166-759    555 TCAGGAAAAGTGCCATCATGGTGAAGAAGATGAGGGAGTTTGGCATCGCT    604
+                     |.|.|||.|||||||.|||||||||||||||||||||.|||||||||||.
+c116089605-11    480 TTAAGAAGAGTGCCACCATGGTGAAGAAGATGAGGGAATTTGGCATCGCA    529
+
+c75979166-759    605 GACCCTGATGAAATTATGTGGTTTAAAAAGTAGGTATGCCTTAGAACAGA    654
+                     ||||||||.|||||.||||||||||||||||||||.|..|||||.|||  
+c116089605-11    530 GACCCTGAAGAAATCATGTGGTTTAAAAAGTAGGTGTATCTTAGCACA--    577
+
+c75979166-759    655 GCAAGTGTTGTTAAGCCTAAACTTTACAGCTGCGGTCTATGGTGGCCTTT    704
+                      ..||||    ||.|||.||||  |||||||||.||||..||.||.||| 
+c116089605-11    578 -TTAGTG----TATGCCCAAAC--TACAGCTGCAGTCTGGGGAGGTCTT-    619
+
+c75979166-759    705 CATCACCGTGCTTGGTGTTTGAAGATGC--AAACTGGCATATTTTCATG-    751
+                      .|.||||.||.||..||||.|||  ||  ||| |.|.||| .|||||| 
+c116089605-11    620 -CTTACCGCGCATGTCGTTTAAAG--GCTTAAA-TTGAATA-CTTCATGA    664
+
+c75979166-759    752 --CAACTTTAT------AAAGTTATAT------------------GTGTG    775
+                       |||.|||||      |||.|.||||                  .|.|.
+c116089605-11    665 TTCAATTTTATGTGTGAAAAATAATATTACTTTTGCATCTAGATCTTTTA    714
+
+c75979166-759    776 GCCGG---GC---GC---GGTG-------GCTCACGCCTGTAAT------    803
+                     |..||   ||   ||   |.||       |||.|      ||||      
+c116089605-11    715 GTAGGATAGCATAGCATAGTTGTAAAAATGCTAA------TAATGAACGG    758
+
+c75979166-759    804 -----CCCA--------------------------GCACTTT--GGGAGG    820
+                          ||||                          ..|||||  ||||.|
+c116089605-11    759 TTGTGCCCAAAATTGTTTTTTTTTTTAATTTTAACAAACTTTAAGGGATG    808
+
+c75979166-759    821 CCGAGGCGGGC-----GG----ATCACCAA----------GTCAG---GA    848
+                     ..|||| .|||     ||    ||||.|.|          || ||   ||
+c116089605-11    809 GTGAGG-TGGCTACCTGGCCTAATCATCTAATTTCAATTTGT-AGAAAGA    856
+
+c75979166-759    849 GA-----------TCGA---------GACCATT--------CTGGCTAAC    870
+                     ||           |.||         |||||||        .|||||   
+c116089605-11    857 GAGTCACCTCCCTTAGATTGTCCTCTGACCATTTGCTAGAGGTGGCT---    903
+
+c75979166-759    871 ACGGTGAAACCCCATCTCTAC-------TGAA-----AATACAAAAA---    905
+                       |.||.|.||||| |.| ||       ||||     |||..|.|||   
+c116089605-11    904 --GTTGTACCCCCA-CAC-ACAATAAGATGAAACTTTAATTTATAAAGTT    949
+
+c75979166-759    906 ----TTAGCCGGG-CGTGGTGGCGGGCGCCTGTAGTTCCAGCTAC-TCGG    949
+                         |.|.|.||| |..||||.|....||||.||.|..|||| || ||||
+c116089605-11    950 CTTTTGAACTGGGCCACGGTGACCCATGCCTTTAATCTCAGC-ACTTCGG    998
+
+c75979166-759    950 --------GAGGCTGAGGCAG----------------GAGAATAGCGTGA    975
+                             |||||.|||||||                ||||..|||.||.
+c116089605-11    999 AGGAGGCAGAGGCAGAGGCAGGCTGATCTCTGATTTTGAGACCAGCCTGG   1048
+
+c75979166-759    976 ACTAGGGAGGCGGAGCT--------TGCAGTGAGCCGAG------ATCGC   1011
+                     .||      ||.|||||        |.| ||.|||| ||      ||.||
+c116089605-11   1049 TCT------GCAGAGCTAGTTCCTGTTC-GTCAGCC-AGGGTTACATGGC   1090
+
+c75979166-759   1012 GCCACTGCACT-------------CCA----GCCTGGGCAA---------   1035
+                     |..||||   |             |||    ||| ||||||         
+c116089605-11   1091 GAAACTG---TGGGAGAGGGTGGGCCAGAAGGCC-GGGCAAACACTAGTG   1136
+
+c75979166-759   1036 --------------GA-GTGCGAGACTCCATCTCAAAAAA--TAAATAAA   1068
+                                   || |.|.|||||         |.|.|  .|||| ||
+c116089605-11   1137 AAGCCCGCTGGGGGGATGGGGGAGAC---------AGAGAGGCAAAT-AA   1176
+
+c75979166-759   1069 TAAATAA------------ATAAAT-------AAAGTTATATGTGTGAAA   1099
+                     ||||.||            |.|.||       ||||||.|.|..|||.||
+c116089605-11   1177 TAAAAAAGCTTTTTGTTCCAAACATCCCTATGAAAGTTCTTTAAGTGCAA   1226
+
+c75979166-759   1100 AATAATGTGA----TCACTTTTGTATCCAAGCCTTTTCGTGGGATGACGT   1145
+                     |     ||||    |||| ||||||                         
+c116089605-11   1227 A-----GTGAACCTTCAC-TTTGTA-------------------------   1245
+
+c75979166-759   1146 GTTTGTAGAATGCT----GATAATAAA------------TGGAA-ATGCA   1178
+                           ||||.|||    ||||..|||            ||||| |  ||
+c116089605-11   1246 ------AGAAAGCTTCCCGATACCAAAGGTGTGGCGCAGTGGAACA--CA   1287
+
+c75979166-759   1179 GGAGTTTTTGTTCTCAAGAGTACAGTTTCAAGGATGTTGTAAAAGCATTG   1228
+                     |     .||| .||    |||   ||.||||||.|||.|          |
+c116089605-11   1288 G-----ATTG-CCT----AGT---GTCTCAAGGCTGTGG----------G   1314
+
+c75979166-759   1229 TTCTG---CCCAAGCAACTCAAATTTGACTGATTTAAATGCAGAATCATT   1275
+                     || ||   |.| ||| |||.||    |||       ||..||||      
+c116089605-11   1315 TT-TGAGTCTC-AGC-ACTGAA----GAC-------AAAACAGA------   1344
+
+c75979166-759   1276 TTGCTCTTTGTAAGGAG------------GACTGCTAAAATTCTGAATCT   1313
+                                .|||.|            |.||.||.|..||||||    
+c116089605-11   1345 -----------GAGGGGGTGGCGAAATCCGCCTACTGATTTTCTGA----   1379
+
+c75979166-759   1314 GGGAGCATTTTTTTTTTTAGTTGCACGAC----CATTTAAATATTTTGGA   1359
+                      |||.|         |.|| |||||.|||    ||||.||.|||||||||
+c116089605-11   1380 -GGAAC---------TGTA-TTGCAAGACCAGACATTGAACTATTTTGGA   1418
+
+c75979166-759   1360 GCAATAGCAGATTATATTAT------AT-GGTAGTGTGGACCTGGATGAA   1402
+                     .||.||.||||||.|.||.|      || ||||||.||    .|.||.||
+c116089605-11   1419 ACACTATCAGATTCTGTTTTTATGTAATGGGTAGTTTG----AGTATAAA   1464
+
+c75979166-759   1403 G-AAT-----------------------GATCTGTGACGCCTCTGAATGA   1428
+                     | |||                       .|.||||.|..||||.||||||
+c116089605-11   1465 GTAATAGAAAGTGTGAGAGTCCGTGGAGAACCTGTCAGACCTCAGAATGA   1514
+
+c75979166-759   1429 AT-AGAAAGTCTAAGAACC-CAGTAGTTCT--GAA--TC-CATGACAGT-   1470
+                     || .||.|.|||.|||||| ||    ||||  |||  || |||   .|| 
+c116089605-11   1515 ATCCGATATTCTCAGAACCACA----TTCTAAGAACGTCGCAT---TGTC   1557
+
+c75979166-759   1471 -GCTTGAATG-----GTTGTCT--TGTGCATATGAGAGAGAC-GTCATAA   1511
+                      |.|.|||||     |||..||  || ||   ||     |.| |||...|
+c116089605-11   1558 GGATGGAATGCTGGCGTTTCCTACTG-GC---TG-----GCCGGTCGGGA   1598
+
+c75979166-759   1512 AAACCTGCCTTGGTTCTAGTGTGGAAGAGAGTATATCC---TTTTTTCAG   1558
+                     |||||.||.||.| |||...||.||.||.||     ||   ||||.||||
+c116089605-11   1599 AAACCCGCTTTAG-TCTGCGGTTGAGGAAAG-----CCGCTTTTTCTCAG   1642
+
+c75979166-759   1559 AC---CATGTGTTTTGTTGTGTTTTTTGTTTTTGTTTTTGTTTT------   1599
+                     ||   |||.|||       ||...||||.|    |||.||||.|      
+c116089605-11   1643 ACGCTCATCTGT-------TGCACTTTGCT----TTTCTGTTATACATAA   1681
+
+c75979166-759   1600 ------TTGAGAC--GG---AGT---------CTCGCTCTG----TC---   1622
+                           |.|||||  ||   |||         |.|..||||    ||   
+c116089605-11   1682 GGGGGCTGGAGACATGGCTCAGTGGTTAAGAACACCGTCTGATCTTCAGG   1731
+
+c75979166-759   1623 --GCCCAGGCTGCAGT--GCAGTGGCACGATCTCGGC------TCACTCC   1662
+                       .|||||| |.||.|  .||   ||||.|||.|..|      |.|||||
+c116089605-11   1732 GGACCCAGG-TTCAATTCCCA---GCACCATCACAACTGATTGTAACTCC   1777
+
+c75979166-759   1663 AG--CC------TC---CACCTCCC------GG-----ATTCAAGCGATT   1690
+                     ||  ||      ||   |||  |||      ||     ||.||.||.|..
+c116089605-11   1778 AGTTCCAGGTTATCTGACAC--CCCTACATAGGCGTACATACAGGCAAAA   1825
+
+c75979166-759   1691 CTCC--TGCTTCAGCCTCCTG---------AGTAGCT-----GG------   1718
+                     |.||  |||.|       .||         |||..||     ||      
+c116089605-11   1826 CACCAATGCAT-------ATGGAATAAATAAGTCACTAAAAAGGACTTTT   1868
+
+c75979166-759   1719 ---GATTACA-------GGCGCCC----------GCCAC-----------   1737
+                        .||||||       |.|.|||          |||.|           
+c116089605-11   1869 AAAAATTACATATAAAGGTCCCCCTTCCCCTTTAGCCTCAAAGTCATCCT   1918
+
+c75979166-759   1738 --CACA--------------------CCCGGCTAATTTT--TGTATT---   1760
+                       ||||                    |.|.|||..||.|  |.||||   
+c116089605-11   1919 CGCACAAGGTGTTTTGCTTGCGGTGGCTCTGCTGCTTCTCCTTTATTTCC   1968
+
+c75979166-759   1761 TTTAGTAGAGA------TGGGGTTTCGCCAT----------GTTGCCAGG   1794
+                     ||||    |.|      |.||||||...|||          .|.|.|||.
+c116089605-11   1969 TTTA----AAACTTCTGTTGGGTTTTTACATAATAGAGGAACTCGTCAGC   2014
+
+c75979166-759   1795 CTGGTC-----------TCAAACT-----CCT-------CACCTCG----   1817
+                     .||.||           |.|||||     .||       |||||||    
+c116089605-11   2015 GTGTTCATTAATAAAGATAAAACTGGGAGGCTGGAGATACACCTCGACAG   2064
+
+c75979166-759   1818 ----------TGATCCACCCTGCTCCACAAGGAAC--GGT----------   1845
+                               |.|.|.|||.||   ||||...|||  |||          
+c116089605-11   2065 TATAGAGCCCTTACCTACCATG---CACAGCTAACTAGGTTTAGTCCCCA   2111
+
+c75979166-759   1846 ----------AAAAATAAATAA--AAATAAGGACTTCG-GGCCGGGCACA   1882
+                               |.||||||||||  ||||||..|..|.| .||.|||..||
+c116089605-11   2112 GCATTTATAAATAAATAAATAAATAAATAAATAAATAGTAGCAGGGGTCA   2161
+
+c75979166-759   1883 GTGGCTCATGCCTG-TAATCTCAGCACTTTGG-----------GAAG--C   1918
+                     |    ||||  ||| |||   .|||||  |||           ||.|  |
+c116089605-11   2162 G----TCAT--CTGTTAA---GAGCAC--TGGCTGCTCTTCCCGAGGTCC   2200
+
+c75979166-759   1919 CAAG-----------GCA-------GGTGGATCAC--------------T   1936
+                     .|||           |||       |||||.||||              |
+c116089605-11   2201 TAAGTTCAATTCCTAGCAACCACATGGTGGCTCACAACCATCTGTAAAGT   2250
+
+c75979166-759   1937 TGAGGCCAGGAG----CTCGA-----GACCAGCCTGGCCAAAAT----GG   1973
+                     ||||.|||||||    ||| |     |.|.|||.||..|.|.||    |.
+c116089605-11   2251 TGAGACCAGGAGAACACTC-ACTTTTGCCTAGCATGTTCCAGATCCTGGA   2299
+
+c75979166-759   1974 TGAAACTCT-------CTCTACTAAAAATACAAAAATTAGCCGGGCCTGG   2016
+                     ||||| |||       || ||..||.||.|..||||||            
+c116089605-11   2300 TGAAA-TCTGCGACACCT-TAGCAACAACAACAAAATT------------   2335
+
+c75979166-759   2017 TGGTGCGCTTCTGGGGTCCCAGCTATTCAGG--AGGC---------TGAG   2055
+                     |.||    |||||...|     ||.||.|.|  .|||         ||||
+c116089605-11   2336 TTGT----TTCTGTTTT-----CTTTTGAAGTTTGGCTTTGTCTTTTGAG   2376
+
+c75979166-759   2056 GCAGGAGAATCCCT---------TGAA--CCTGGGAGGCAAAGGCTGCAC   2094
+                     ..|||..||||.||         ||.|  ||    ||||  .||||.|| 
+c116089605-11   2377 ATAGGTTAATCTCTATGTCACTATGTAGTCC----AGGC--TGGCTCCA-   2419
+
+c75979166-759   2095 TGAGCCGAGATCACGCCA----------CTGCACTCCAGACT--------   2126
+                                 ||.|||          |||  |.||||.||        
+c116089605-11   2420 ------------ACCCCAAATATTCTTTCTG--CCCCAGCCTCTTTATTG   2455
+
+c75979166-759   2127 ---GGGCAACA-----AAGAGAGACT--CTGTCTCAAAAA----AAA---   2159
+                        |||..|||     |||..|..||  |||.||..||||    |||   
+c116089605-11   2456 CTGGGGTTACAGATGTAAGCCACCCTAGCTGGCTTGAAAAGCTTAAATGT   2505
+
+c75979166-759   2160 -AAAAAAAAAAAAAAAAGACTTTTTTGCCTTAACCTAA-ACAAACACTAT   2207
+                      |..||.||.|         |.||||  |...|.|||| |.|||   |||
+c116089605-11   2506 TATTAAGAATA---------TGTTTT--CAAGAACTAATATAAA---TAT   2541
+
+c75979166-759   2208 TACATGATCC----------TAGTACAAGATTA-----TTTTGGCCT---   2239
+                     ||||.| |||          |.||| |.|.|||     ||||  |||   
+c116089605-11   2542 TACAAG-TCCTGCCCTCATGTGGTA-ATGGTTACTTCTTTTT--CCTTTG   2587
+
+c75979166-759   2240 -------------ATAGCATT----------TTTTTCTCATTTATTCCTG   2266
+                                  || |||||          |||||    |||       
+c116089605-11   2588 AGTTACAGATGCAAT-GCATTCAGAGTCTGGTTTTT----TTT-------   2625
+
+c75979166-759   2267 GGCATTTTCTCTTTTAGGTTTCTCCATTTTAAAGGAACTCCAGTATTTTC   2316
+                         ||||.|.||||||.|||     |||.|.|       |||..|||  
+c116089605-11   2626 ----TTTTTTTTTTTAGATTT-----TTTGAGA-------CAGGGTTT--   2657
+
+c75979166-759   2317 ATCGGTAAAGACTAAATCGTATGAGTGG-TGTATAGACTAGAAC-CAAGC   2364
+                     .||.|||.||.|            .||| |||    .||.|||| ||  |
+c116089605-11   2658 CTCTGTATAGCC------------CTGGCTGT----CCTGGAACTCA--C   2689
+
+c75979166-759   2365 TAAATAGAACATGTTG--CACG---------TTCTGCCTTTATGGTAATA   2403
+                     |...||||.||.|.||  |.||         .|||||||           
+c116089605-11   2690 TTTGTAGACCAGGCTGGCCTCGAACTCAGAAATCTGCCT-----------   2728
+
+c75979166-759   2404 ATGGTCACTGCCT--CTAGTGCCTTTGGTATCGATTTTCAGCTTG-----   2446
+                        |.|.||||||  |.|||||   |||    ||||....||.||     
+c116089605-11   2729 ---GCCTCTGCCTCCCGAGTGC---TGG----GATTAAAGGCGTGTGCTA   2768
+
+c75979166-759   2447 ACTTGG--------------GTT-------------ATTTTTGTGAAGAT   2469
+                     .|.|||              |||             |||..|||||..||
+c116089605-11   2769 CCATGGCCCGGCCAGAGTCTGTTTCTTAATTCACCCATTACTGTGACAAT   2818
+
+c75979166-759   2470 GAAATGGTTTACTCTGGCACTTTGGACTTTCCTCAGAGCTCC--------   2511
+                     ||||||||||.|| |.||.|.||.|.|.|||||||||.||||        
+c116089605-11   2819 GAAATGGTTTGCT-TTGCTCCTTAGGCCTTCCTCAGAACTCCAGTAGATC   2867
+
+c75979166-759   2512 ---------------ACTCAGTTT-----------TAAACGA--------   2527
+                                    ||| |||||           |||.|.|        
+c116089605-11   2868 TTACTAATCAGAAATACT-AGTTTACTTGTGCTTGTAATCTATGCACATG   2916
+
+c75979166-759   2528 -----------------------------------AAAAATTTTG-----   2537
+                                                        |...|.||||     
+c116089605-11   2917 GGAGGTGGAGCCAGGTCAGAGTCATCCTTATGTATATCCAGTTTGAGGAC   2966
+
+c75979166-759   2538 -------------TTTAT----------------TTATTTTTGGTAGTTC   2558
+                                  |||||                |||.|||||||||  |
+c116089605-11   2967 TGTCCTAGCTACATTTATAGTTACTTATTCGTGGTTAGTTTTGGTAG--C   3014
+
+c75979166-759   2559 AAATCAGCATACT--------TCCAAATGGTCTG-TTTTGTTTTTGAAGT   2599
+                     |||.|||.|.|||        ||||.||..| || ||||||||.|..||.
+c116089605-11   3015 AAAGCAGAAGACTAGCCAACCTCCACATACT-TGCTTTTGTTTCTAGAGC   3063
+
+c75979166-759   2600 TTGTAACTC-ATGG--CTGTGGGGATATTGAGATAGAGTAACTCCTCCTA   2646
+                     |||||| || ||||  || |||               ||||   .|||.|
+c116089605-11   3064 TTGTAA-TCTATGGGACT-TGG---------------GTAA---GTCCGA   3093
+
+c75979166-759   2647 --GAAGATTATGTT-----ACTGATACCTGTGTTGTGTTTGTAAA-----   2684
+                       ||||    ||||     ||.||   |||.|.||.|||...|||     
+c116089605-11   3094 GGGAAG----TGTTAGCAAACGGA---CTGAGCTGGGTTCACAAACAGAA   3136
+
+c75979166-759   2685 ---TTTGAAAAAATTAGTAAGATTTTATTCCTTCTTGAAACGTCAGGAAA   2731
+                        .|||||            |||..||.|||||        |||||..|
+c116089605-11   3137 GCTGTTGAA------------ATTCAATACCTTC--------TCAGGGCA   3166
+
+c75979166-759   2732 AAAGTGG-GTTGAGTG-TGTGTGTGTGTGTTTGAATGGGTGGTGCAGTGC   2779
+                     |.| ||| |  ||||| |||       ||||        ||||..|||| 
+c116089605-11   3167 ACA-TGGAG--GAGTGCTGT-------TGTT--------TGGTAGAGTG-   3197
+
+c75979166-759   2780 ATTTCAAAGCTGATAGAG-ATGATTTCATAACCTGTG-ACCTG-TTGATA   2826
+                             |.|||||.|| || ||||.|||||||.|| |.||| ..||.|
+c116089605-11   3198 --------GATGATACAGCAT-ATTTTATAACCTTTGTAACTGCACGACA   3238
+
+c75979166-759   2827 ATGTG-AACCAGACTCGAGTGAGGTCACAATGAAATAGAACAAAGTCTTT   2875
+                     |   | |.||||||||..|||||||||||..||..||||||||||||.||
+c116089605-11   3239 A---GCAGCCAGACTCAGGTGAGGTCACAGAGACCTAGAACAAAGTCCTT   3285
+
+c75979166-759   2876 TATGCGGGTTAAAGATTCATGGACACCGGGAAGTTGTTTTGTGTATCATT   2925
+                                              ||            ||||.|.|||.
+c116089605-11   3286 -------------------------CC------------TGTGGACCATG   3298
+
+c75979166-759   2926 TTTCATGTGAAGTATTAAAGTAC------AAACTTTAACACA---CCCTT   2966
+                     ..|||||.|||..||.||| |||      .||.|||    ||   |||||
+c116089605-11   3299 CCTCATGGGAAACATGAAA-TACTAGCGATAAGTTT----CAGTGCCCTT   3343
+
+c75979166-759   2967 TGACACACTTCCAA-TGTCCTTAGGATATGACAAGGAGATCAGTTTTTAA   3015
+                     |||.|||   ..|| |||.|...||||.|||| .|||..||  |.|||||
+c116089605-11   3344 TGAAACA---GGAAGTGTTCCCGGGATGTGAC-GGGAAGTC--TGTTTAA   3387
+
+c75979166-759   3016 GT---AAGAGAAG------GGGT----TTGTAAATGAGTCCTGGAAATTA   3052
+                     ||   |.|||.||      ||.|    |||..|.|||.|.|||..||.|.
+c116089605-11   3388 GTTGAAGGAGCAGACTGGTGGTTAGTCTTGGTAGTGACTGCTGTCAAGTC   3437
+
+c75979166-759   3053 TCGCATG-CTATCGA----------GTTAAAGCCTCGG---------TTA   3082
+                     ||.|.|| .|.||||          .||...||| |.|         |||
+c116089605-11   3438 TCTCCTGTTTCTCGAACCATTCTTCTTTCTTGCC-CAGTATCTTTTTTTA   3486
+
+c75979166-759   3083 TATAATCTCATCGATTATAACTCACACCAGTGT-----TTTGTGTACCAC   3127
+                     |.||.|.|.||.|.||||   |.|||    |||     |.|||||.||..
+c116089605-11   3487 TTTATTTTTATTGTTTAT---TTACA----TGTACATGTGTGTGTGCCTG   3529
+
+c75979166-759   3128 TAAGAAAGAAAGAATGC---------TGCCAGTTAACC-----------G   3157
+                     ||.|...|.|.|  |||         .|.||||   ||           |
+c116089605-11   3530 TATGTGTGCATG--TGCCCAGGGATGGGGCAGT---CCTTGGAGCTGGAG   3574
+
+c75979166-759   3158 TGACATGCT-----ATTA-----------ATTG-------------TGA-   3177
+                     |.|||.|||     ||.|           .|||             ||| 
+c116089605-11   3575 TTACAAGCTGCCTGATGAGGGCACTGGGGGTTGAACGCTGGTCCTCTGAG   3624
+
+c75979166-759   3178 -----AATACATCACCTTTCTT-------------TCTTTTC--------   3201
+                          |||||||    .|||||             |||.|.|        
+c116089605-11   3625 AGAACAATACAT----GTTCTTAACCAGTGAGCCATCTCTCCAGCCCCCT   3670
+
+c75979166-759   3202 ------TTTTCTTTCTTTCTTTCT---------TTTCTTTTC--------   3228
+                           |||.||.||  .|||.||         ||.||||||        
+c116089605-11   3671 ACCCCGTTTCCTGTC--ACTTGCTGGAGATGGCTTACTTTTCAACTAGTA   3718
+
+c75979166-759   3229 -------TTT-----------------CTTTTCCTTTCTTTTT-------   3247
+                            |||                 |.||.||.|||.||.|       
+c116089605-11   3719 ATAAGCATTTAGGGGGAAAAAAAAAACCCTTACCATTCATTGTTAAGTAC   3768
+
+c75979166-759   3248 ------CTTTCTCTTT------------CT---CTTCCT-----------   3265
+                           |.|.|||..|            ||   .||.||           
+c116089605-11   3769 AGTGGGCATGCTCAATGAGGGCCGAGGACTAGAATTACTGAGGCAGGGGA   3818
+
+c75979166-759   3266 CTTTC------TTT--TTCTTTCTCTCTCTTTCTTTCTCTCTCTCTCTCT   3307
+                     .||||      |||  ..|.|||.||.| |.|||||.|            
+c116089605-11   3819 ATTTCCAGGAATTTAGGGCATTCACTGT-TATCTTTGT------------   3855
+
+c75979166-759   3308 CTCTCTGCATTTCCATTTATTTCCATTATCAGCAGGTGAAGAGGCATCTG   3357
+                      |.|.||        ||||||   |.||.|                    
+c116089605-11   3856 -TATGTG--------TTTATT---ACTAAC--------------------   3873
+
+c75979166-759   3358 CCACCTCACCCA---GCTAACTTTTGTATTTTTAGTAGAAATGGGGTT--   3402
+                     ||.|||  ||||   |.|..|||||||.||||.||    |.||||.||  
+c116089605-11   3874 CCCCCT--CCCATCTGTTTGCTTTTGTTTTTTGAG----ACTGGGTTTTT   3917
+
+c75979166-759   3403 -----------TCACCATGTTGGCCAGGCTGGTCTCGAACTCCTG-----   3436
+                                |.||.|.||.|..||||||||.|.|.||||  ||     
+c116089605-11   3918 CTGTGTAGCTCTGACTAGGTAGATCAGGCTGGCCACAAACT--TGGAGAT   3965
+
+c75979166-759   3437 --GCCT------TGTG-ATCCAC--CCGCCC--------CTTCCTCCCAA   3467
+                       ||||      |||| || |||  |.||||        ||.|       
+c116089605-11   3966 CTGCCTGGAAGGTGTGCAT-CACCACTGCCCAGCTGTGGCTGC-------   4007
+
+c75979166-759   3468 AATGCTGGGATTACAGGCATAAGCCACTGCGCCT--GGCTG---------   3506
+                       .||||.||.|.| |||   .||..|||||.||  |||||         
+c116089605-11   4008 --GGCTGCGACTGC-GGC---TGCGGCTGCGGCTGCGGCTGCGGCTTCTT   4051
+
+c75979166-759   3507 --------------------------------------AGAAAA------   3512
+                                                           |||.||      
+c116089605-11   4052 CTTCCTCCTCCTCTTCTTCCTCTTCCTCCTCCTCCTCCAGATAAGGCTTC   4101
+
+c75979166-759   3513 -CATTTTT---AACTGATGTTA---ATGAGCAGCTTCTAAACACATGATT   3555
+                      .||||||   |.|| || |||   ||      .|||||..|||   |||
+c116089605-11   4102 TTATTTTTTAAATCT-AT-TTATCTAT------ATTCTATGCAC---ATT   4140
+
+c75979166-759   3556 AGGAC-------GCA--GAAGTC---------GT-TC----CCTCTGG--   3580
+                     .|.||       |||  .|.|||         || ||    |.|||||  
+c116089605-11   4141 GGTACTTTGCCTGCATGTATGTCTGTGTGAGGGTGTCTGATCTTCTGGAA   4190
+
+c75979166-759   3581 -TGGA----------------ATCTATAATG------------ATT----   3597
+                      ||||                |.||.|.|||            |||    
+c116089605-11   4191 CTGGAGTTACGGACAGTTGTGAGCTGTCATGTGGGTCCTGGGAATTGAAC   4240
+
+c75979166-759   3598 -----------------ACATTAATTCA-----------TTTTGATTAAT   3619
+                                      |||||||||.|           ||.||.||..|
+c116089605-11   4241 CCAGGTTCTCTGCAAAAACATTAATTAAGACTGGGTCTCTTATGTTTTGT   4290
+
+c75979166-759   3620 TAGAAATATTCGTATCTAAGAGCATCCATGTTGAGAGTT--TTTTGTTTC   3667
+                     |.||      .||.|.|     ||||..|.||     ||  ||||.|||.
+c116089605-11   4291 TTGA------GGTTTGT-----CATCTTTTTT-----TTTCTTTTTTTTT   4324
+
+c75979166-759   3668 TAA---GTGGATT--------ATGATTTATGTAAGATA------GAAA--   3698
+                     |||   ||.|.||        .||||||.|..||.|||      ||||  
+c116089605-11   4325 TAATGTGTTGTTTTTATAAAATTGATTTTTAAAAAATATTTGATGAAAGT   4374
+
+c75979166-759   3699 AGACAATGGGACTGGGGCATGGTGGCTCACGCCTGTAATCCCAGCACT--   3746
+                     |||...|.|.|    .|||||.|.|.|      |.||.||    .|||  
+c116089605-11   4375 AGATGTTTGCA----TGCATGTTTGTT------TATATTC----TACTGT   4410
+
+c75979166-759   3747 -TTG---GGTGGCTGAGGTGG------GCAGATCACTTGAGGCCAGGCCA   3786
+                      |||   ||||.|.||||.||      ||||      ||.||        
+c116089605-11   4411 CTTGCCTGGTGCCAGAGGGGGTTAAAAGCAG------TGTGG--------   4446
+
+c75979166-759   3787 CTTCATGA-CCAGCCTGGCCAACA-TGG-----CAAAACGCCTTCTCTAC   3829
+                           || ||  |||||    || |||     .||||.|  ||.|..||
+c116089605-11   4447 ------GATCC--CCTGG----CAGTGGAGTTATAAAAGG--TTGTGAAC   4482
+
+c75979166-759   3830 TA------AAATACAAAATTAACCGG-------GCTTGG-----TGGCA-   3860
+                     ||      .|.|||.|        ||       |||.||     |||.| 
+c116089605-11   4483 TACCCTGTGAGTACTA--------GGAGCTGAAGCTAGGTCTTCTGGAAG   4524
+
+c75979166-759   3861 --CACGCC------TATAATCCCAGCTACTTGGGAGGCTGAGGCATGAGA   3902
+                       || |||      |.|||   |||    |||.|||.||         ..
+c116089605-11   4525 AGCA-GCCAGTGCGTTTAA---CAG----TTGAGAGTCT---------CC   4557
+
+c75979166-759   3903 ATCACTTGA---ACCTAGGAGGCAGAGGTTGCCGTG-AGCT---GGGATC   3945
+                     |||||.|||   ||     ||.|||...||..| || ||||   |..|||
+c116089605-11   4558 ATCACCTGATTCAC-----AGACAGGTCTTAAC-TGTAGCTCCCGTTATC   4601
+
+c75979166-759   3946 ACACCAC-TGTACTCCAGCCTGGGC-AACAGAGGG----AGACTG-----   3984
+                           | ||.|||||.|.||.||| .|..||..|    .|||||     
+c116089605-11   4602 ------CTTGAACTCCTGTCTTGGCTTATTGATTGCTTATGACTGTTCTG   4645
+
+c75979166-759   3985 -----TCTCCAAAAAAGAAAAAAAAAGAAATGG-CGG--GGATAACCGTG   4026
+                          ||||     |||....||.|||    || |||  ||.|.....||
+c116089605-11   4646 CTTGCTCTC-----AAGTTCCAACAAG----GGTCGGTTGGGTTTTTTTG   4686
+
+c75979166-759   4027 TAG-----------------TACTTATTTA---------------GGAAA   4044
+                     |||                 .|||.|||.|               |||.|
+c116089605-11   4687 TAGACTCCTTGGGCTTTTAAAACTGATTCATTGAGGCTGGTTAAGGGACA   4736
+
+c75979166-759   4045 TA------GAAAAATAAGG-------GTATA----------TTGTGTTTA   4071
+                     ||      |    ||||||       |..||          ||.||.|.|
+c116089605-11   4737 TATCAGTTG----ATAAGGTCCTGGAGACTAGCCCCAGTCCTTATGATAA   4782
+
+c75979166-759   4072 CT-ATTA-------TTTCTTTCTTTCTTTCTTTTTT---TTTTTTTTTTT   4110
+                     .| ||||       ||||||||||||||||||||||   |||||||||||
+c116089605-11   4783 TTAATTAAATCTGGTTTCTTTCTTTCTTTCTTTTTTTTGTTTTTTTTTTT   4832
+
+c75979166-759   4111 TTTTTTGGAGACAGAGTCTCGCTCTGTCGCCCAGGCTGGAGTGCAGTGGT   4160
+                     .|||||.|||||||.||.||.||.|.||.|||.|||||            
+c116089605-11   4833 GTTTTTCGAGACAGGGTTTCTCTGTATCACCCTGGCTG------------   4870
+
+c75979166-759   4161 GCGATCTCGG--CTCACT-------ACAAGCTCCGCCTC---CCGGGTTC   4198
+                         ||..||  ||||||       .||.||| .|||||   |     ||
+c116089605-11   4871 ----TCCTGGAACTCACTTTGTAGACCAGGCT-GGCCTCAAAC-----TC   4910
+
+c75979166-759   4199 ACGCCATTCTCCCGCCTCAGCCTCCTGAGTAGCTGGGACTACAGGAGCCC   4248
+                     | |..||.|.||.|||||.||||||.|||| |||||||.||.|||....|
+c116089605-11   4911 A-GAAATCCGCCTGCCTCTGCCTCCCGAGT-GCTGGGATTAAAGGCATGC   4958
+
+c75979166-759   4249 ACCACCACACCCGGCTAATTTTTTTTT--------TGTATTTTTCGTA--   4288
+                     ||||||||.|||.|||..||.||||||        |.||||||.|.||  
+c116089605-11   4959 ACCACCACGCCCAGCTCTTTCTTTTTTTAGATTTATTTATTTTACTTATT   5008
+
+c75979166-759   4289 -GAG---AC----GGGGT-TTCA-CCATGTTAGCCAGGATGG-------T   4321
+                      |||   ||    |..|| |||| .||...|||  |.||.||       |
+c116089605-11   5009 TGAGTATACAATTGCTGTCTTCAGACACACTAG--AAGAGGGCATCAAAT   5056
+
+c75979166-759   4322 CTCGAT--CTGATGGTCTCGATCTCCTGACCTCGTGATCCACCCGCCTTG   4369
+                     | |.||  |.|||||                |.||||.|||||  ..|||
+c116089605-11   5057 C-CCATTACAGATGG----------------TTGTGAGCCACC--ATTTG   5087
+
+c75979166-759   4370 GCCTCCCAACGTGCTGGGA-------------------------------   4388
+                     |         |||||||||                               
+c116089605-11   5088 G---------GTGCTGGGAATTGAAATCCGAACTTTTAGAAGAGCAGTCA   5128
+
+c75979166-759   4389 ------TTACAGGCGTGAGCCACCGC----GCCCGGCTACTATTATTT--   4426
+                           ||| |||| |||||||||.|    |||| .||.||.||.|||  
+c116089605-11   5129 GTGCTCTTA-AGGC-TGAGCCACCTCTTCAGCCC-CCTTCTTTTCTTTTC   5175
+
+c75979166-759   4427 --------------------------------------------------   4426
+                                                                       
+c116089605-11   5176 TTTTCTTTTCTTTTCTTTTCTTTTCTTTTGTTGAGGACAGGGTCTCCCTA   5225
+
+c75979166-759   4427 --------CTTT-----------------------TAAG--GTGGTAG--   4441
+                             ||||                       ||||  |||| ||  
+c116089605-11   5226 TAGTGGGACTTTCTTAAATCCTTCAGAGGTATAAATAAGATGTGG-AGAC   5274
+
+c75979166-759   4442 -TTT------GGT-------------TTCAGG---GTCCCCCAGC-ACTG   4467
+                      |||      |||             ||.|||   |||.|||||| ||||
+c116089605-11   5275 TTTTCACATAGGTTAAAGCTTTGACCTTTAGGGCAGTCTCCCAGCTACTG   5324
+
+c75979166-759   4468 CAATGGCA--------GCCTATC----------CCT-TCTGTCCT----T   4494
+                     .||    |        |.|||||          ||| ||.|||.|    .
+c116089605-11   5325 TAA----ACTTAACCTGACTATCTTGGCCATGACCTGTCAGTCATGTGGC   5370
+
+c75979166-759   4495 TAGTTCATG-----CTCTGCT-CATTGCACAGGTTAGGATAAACTGG---   4535
+                     |||||| ||     ||||||| ||.|||..|.||.||     .||.|   
+c116089605-11   5371 TAGTTC-TGCACCTCTCTGCTACACTGCTGACGTCAG-----TCTTGTTC   5414
+
+c75979166-759   4536 ----------TAGTAACATTGCT--------------------------T   4549
+                               |.|||.|..|.||                          |
+c116089605-11   5415 CCTTTGTCCTTTGTATCTCTTCTCCCAGCATCCCTCCCCTTCCCCTACCT   5464
+
+c75979166-759   4550 CCTAATC------------ATGTGTTG----AGAAGTCGTG--AAGATCA   4581
+                     |||||.|            |.||..||    ..|..||.||  .||||  
+c116089605-11   5465 CCTAACCCTCCCCCCCACTAAGTTCTGCCCTCCACTTCTTGCCCAGAT--   5512
+
+c75979166-759   4582 GTTAGATGAGATGTATTTTGTACTTTAAAC------------TTTTTAGA   4619
+                     .||.|.||..|..|.||||.|..|||||||            ||||||.|
+c116089605-11   5513 ATTGGCTGTCAACTCTTTTTTTTTTTAAACATTCTTTTTTTTTTTTTAAA   5562
+
+c75979166-759   4620 --------TACGAGCTTTGTCA-----AAGTACA----------AAATTG   4646
+                             ||     |||.|.|     |||||||          .|.|||
+c116089605-11   5563 GATTTATTTA-----TTTATTATATGTAAGTACACTGTAGCTGGGATTTG   5607
+
+c75979166-759   4647 ATC------CCTATAAAA--------------TCT-------------AT   4663
+                     |.|      |||..|.||              |||             ||
+c116089605-11   5608 AACTCCGGACCTTCAGAAGAGCAGTCAGGTGCTCTTATCCACTGAGCCAT   5657
+
+c75979166-759   4664 GACACAGCACAGCCAAGGC---CAACTACTGT-------------GGATT   4697
+                     ..|||    |||||..|||   ||||| ||.|             .|||.
+c116089605-11   5658 CTCAC----CAGCCCCGGCTGTCAACT-CTTTATTATAGCCAATCAGATA   5702
+
+c75979166-759   4698 CTGTTTTGTA-------AGAAGAGAGTTGAGGACTAA-----ATTT---C   4732
+                     |..|.|||||       |||..|   .||||||..||     ||||   .
+c116089605-11   5703 CAATGTTGTATTGCCTCAGACTA---ATGAGGAAGAATTAATATTTATAA   5749
+
+c75979166-759   4733 AATGTGA-------TGTAGAG-TTAATCCGTAGTAATGTTCATTGACCAT   4774
+                     |||.|||       ||.|||| |...||.|.|||.|.|..|||||||   
+c116089605-11   5750 AATATGAGACCAGCTGGAGAGATGGCTCAGCAGTTAAGAGCATTGAC---   5796
+
+c75979166-759   4775 TGG-----------------GGATAAATTTTTA-----CAT------GCC   4796
+                     |||                 .|.|.||||...|     |||      ||.
+c116089605-11   5797 TGGCTCTTTCAGAGATCCTCAGTTCAATTCCCAGCAACCATGGGGTGGCT   5846
+
+c75979166-759   4797 CACATTA-CTTAT--TGTAAACCCTGAAGAC--CTTTAGCGATGTATGAT   4841
+                     ||||  | |||.|  ||||   .||.||.||  ||.|||           
+c116089605-11   5847 CACA--ACCTTCTGGTGTA---TCTAAAAACAGCTATAG-----------   5880
+
+c75979166-759   4842 TCTGCCCTGGAATATGTATTTAC------------TCTTTTGG-------   4872
+                       ||||||        |||.|||            |||||.||       
+c116089605-11   5881 --TGCCCT--------TATATACAAAAAAAATCATTCTTTAGGGAAAAAA   5920
+
+c75979166-759   4873 ------------ATATTTGCTTATATTAT-------CTAGGGAAACATAG   4903
+                                 .||.|.||||   |.||       ||.||||.|||.||
+c116089605-11   5921 AAAAGCCAGGCAGTAGTGGCTT---TAATCCCAGCACTTGGGAGACAGAG   5967
+
+c75979166-759   4904 TTGAAATT--ATTTCTTCCTTGGA-GCTCTTGTTAACAGC--GCTATAAA   4948
+                       |.|..|  ||||||...||.|| ||         ||||  |.|.||.|
+c116089605-11   5968 --GCAGGTGGATTTCTGAGTTCGAGGC---------CAGCCTGGTCTACA   6006
+
+c75979166-759   4949 TAAGT--GTTCT---ATGG---AGTTATTTTTGCTCTTTGAAACAAACAG   4990
+                      ||||  |||||   ||.|   ||        |||       |||.|.||
+c116089605-11   6007 -AAGTGAGTTCTGGGATAGCCAAG--------GCT-------ACACAGAG   6040
+
+c75979166-759   4991 -------GT------AAAACCTAAATAAAGCAAAAAA-------------   5014
+                            ||      ||||||.|||.||| |||||||             
+c116089605-11   6041 AAAATCTGTCTCCAAAAAACCAAAACAAA-CAAAAAAGGCCATTGATAGT   6089
+
+c75979166-759   5015 ------AAAAAACCACACA------------------------------C   5028
+                           |||.|||.|.|||                              |
+c116089605-11   6090 CCATAGAAATAACAATACAGGTCTGGAGAGATGGCTCAGTGGTTAAGAGC   6139
+
+c75979166-759   5029 A----------TTCTAAA------AAATTCAACCAATCAAACCAGCAAAT   5062
+                     |          |||.|.|      .|.|||||.|       ||||||   
+c116089605-11   6140 ACTGACTGCTCTTCCAGAGGTCCTGAGTTCAATC-------CCAGCA---   6179
+
+c75979166-759   5063 AACACCA-----------ACAACC------------------TCCCCT-T   5082
+                        ||||           ||||||                  |.|||| |
+c116089605-11   6180 ---ACCACATGGTGGCTCACAACCATCTGTAATGCTATCTGATGCCCTCT   6226
+
+c75979166-759   5083 CCAAAAATTAGAGAAGTTTTTATGCTAAAACTTAGGTAGAATTTGCTTAG   5132
+                     |      ||     .||.|.|.||  ||.||  ||.||.|.|.|.|||| 
+c116089605-11   6227 C------TT-----GGTGTGTCTG--AAGAC--AGCTACAGTGTACTTA-   6260
+
+c75979166-759   5133 TGGAT--TAAATGTAAATACGAAATGAACTGTGGGAACTGTGGCCTTGA-   5179
+                     |..||  ||||  |||||   ||||||| ||...|||         ||| 
+c116089605-11   6261 TATATAATAAA--TAAAT---AAATGAA-TGAATGAA---------TGAA   6295
+
+c75979166-759   5180 --AATAA----TTAGAAGAAGAGAGAT--------CATCAGGTTCTGC--   5213
+                       |||||    |||.||.||.|||.||        ||  ||.|.||||  
+c116089605-11   6296 TGAATAAATCTTTAAAAAAAAAGAAATAACAATACCA--AGATCCTGCCA   6343
+
+c75979166-759   5214 -------------TGCTGG-------------------------------   5219
+                                  ||||||                               
+c116089605-11   6344 GCATTTATCTCTTTGCTGGTCCAGAGACACACCCTGGCCCAGTGTGCCCC   6393
+
+c75979166-759   5220 -----CTTTTTAGGTAGTAAAATGGTAAATCTTATATTTA---------A   5255
+                          ||...|||||      ||.||.|     ..|||.|         |
+c116089605-11   6394 AGCATCTCCCTAGGT------ATCGTCA-----GCATTCACTTCCTCCCA   6432
+
+c75979166-759   5256 TTTCA----TAAGAAGGGGGTTTACATTTTC---------CTGAC--CTT   5290
+                     ||.||    ||     |..||||.||||.||         || ||  |||
+c116089605-11   6433 TTCCAGCTCTA-----GCAGTTTGCATTCTCAGGTGTACACT-ACCACTT   6476
+
+c75979166-759   5291 CT---------CCTTGAAGGCCAAAGCT------------GTTT-GGCAA   5318
+                     ||         .|||     |.||||||            |||| ||.||
+c116089605-11   6477 CTAGCTCAGTCTCTT-----CTAAAGCTAAATTTCATGTGGTTTAGGGAA   6521
+
+c75979166-759   5319 G----------------------------AAG-------GGGTTGTAG-G   5332
+                     |                            |||       |||.||.|| |
+c116089605-11   6522 GGGAGAAACAACAAAAAATTTAATTAAAAAAGAAAAACAGGGCTGGAGAG   6571
+
+c75979166-759   5333 ATG---CAGT-------------------------------------TTC   5342
+                     |||   ||||                                     |||
+c116089605-11   6572 ATGGCTCAGTGGTTAAGAGCACCGACTGCTCTTCCGAAGGTCCTGAGTTC   6621
+
+c75979166-759   5343 TAA----AGGAA---------GGCT----------------GAGATCCTT   5363
+                     .||    ||.||         ||||                ||||||   
+c116089605-11   6622 AAATCCCAGCAACCACATGGTGGCTCACAACCATCTGTAAGGAGATC---   6668
+
+c75979166-759   5364 TT------CTCTTC-----TCTCCTGTAGAC---TACATTTGGTCAATTT   5399
+                      |      ||||||     |.| |||.||||   ||||.|  || |.|||
+c116089605-11   6669 -TGACGGCCTCTTCTGGAGTGT-CTGAAGACAGTTACAGT--GT-ACTTT   6713
+
+c75979166-759   5400 TGT-------------------------------GGAA--------CCTG   5410
+                     |.|                               |.||        |||.
+c116089605-11   6714 TATAATAAATAAATAAATCTTTAAAAAAGAAAAAGAAAATCAATAGCCTA   6763
+
+c75979166-759   5411 TGGG------------CCTCAATTACTCCATGTT-TATTCCTACCTTGCT   5447
+                     ||.|            ||||     ||||.|||| ||..|||.|||.|||
+c116089605-11   6764 TGTGTCTGCTCTGTCTCCTC-----CTCCTTGTTGTAGACCTGCCTAGCT   6808
+
+c75979166-759   5448 GA-ATCAGGGCACCACTGCTCAGAAAG-AGA-AATGGCTG-CTTTCATCC   5493
+                     || |             |||||..|.| ||| .|| |||| ||||     
+c116089605-11   6809 GAGA-------------GCTCACTATGTAGACTAT-GCTGCCTTT-----   6839
+
+c75979166-759   5494 AAAGGACTC--CAGATAATTGGCACCTACGCCCAGACGGAAATGGGCCAC   5541
+                        ||||||  .||||...||   |||                  |||  
+c116089605-11   6840 ---GGACTCTTGAGATGTCTG---CCT------------------GCC--   6863
+
+c75979166-759   5542 GGTTAGTCCACAT--TGAGGGTCTG-TGGG----TAAC--------CCAC   5576
+                           |||||.|  ||||    || ||||    ||.|        ||||
+c116089605-11   6864 ------TCCACCTTCTGAG----TGCTGGGCTCCTAGCCTATGCCGCCAC   6903
+
+c75979166-759   5577 -CTCAGGACATCAGTTAACAGTGATTGCTGGCATTTGACTTTTTTCTGCT   5625
+                      |.|||..|.||         |.|||  |.||||..||            
+c116089605-11   6904 GCCCAGCTCCTC---------TCATT--TTGCATAGGA------------   6930
+
+c75979166-759   5626 GCTACCTGTTTGGG-----ATTCT------ATTTTTAAGTTGTTA-AGTC   5663
+                     |||     ||||.|     ||.||      |||||..||||.|.| ||| 
+c116089605-11   6931 GCT-----TTTGAGTTAAAATCCTTATCACATTTTCCAGTTTTCAGAGT-   6974
+
+c75979166-759   5664 AAAATTCAACTTCTTG-TTTTCTCCTAGACATTTTC--------CCTGGA   5704
+                        |||    ||.||| .||.|||  || |.|||||        |.||||
+c116089605-11   6975 ---ATT----TTATTGAATTGCTC--AG-CCTTTTCAGTTCCTTCATGGA   7014
+
+c75979166-759   5705 AACTGGTCCAGGGCTCTGGCCTATAAACGTCATTCACTGTTATTTC---C   5751
+                     || ||    .|||   ||...||||     .||||||   .|||||   |
+c116089605-11   7015 AA-TG----TGGG---TGCGTTATA-----GATTCAC---CATTTCTGGC   7048
+
+c75979166-759   5752 TAAAGCCTTTTA--TTATT-----GAACAGCTTGAAAAGATGGGGTTTAC   5794
+                     .|     ||.||  |||||     ||||..|.|         |.||||.|
+c116089605-11   7049 AA-----TTATACCTTATTTCTCAGAACTTCCT---------GTGTTTTC   7084
+
+c75979166-759   5795 ---------------AGTGCAGCGGGGAACCCCATTATGTTACTCTGGGT   5829
+                                    | |.||.|   .|.||||||.|.|..|   |||| 
+c116089605-11   7085 TCTTTCCTTCCATCTA-TCCATC---CATCCCCATGAGGGGA---TGGG-   7126
+
+c75979166-759   5830 CTAATGAGTAAAGACTTTGT---TGGAAATTCTTCAGAGG-GTTAGT--G   5873
+                          ||| ||||  |.|||   |||        |||.|| .|||||  |
+c116089605-11   7127 -----GAG-AAAG--TGTGTGAATGG--------CAGTGGTTTTAGTGAG   7160
+
+c75979166-759   5874 CCTCAGCAATATCT--GGAAAGCGCCT-CTCTGCTCTAA---TGCAGTTA   5917
+                     .|||||  |.|.||  |||.|    || |||||.|||.|   ||.||.|.
+c116089605-11   7161 ACTCAG--ACACCTTAGGACA----CTGCTCTGGTCTTACCCTGGAGCTG   7204
+
+c75979166-759   5918 AAG---------------CTGTGGATTTTAATGGGGGCAGCAGGCAGTGG   5952
+                     |.|               ||||...|.|         ||.|||||.||.|
+c116089605-11   7205 ATGTACGTGTCTGTCTGTCTGTCCTTCT---------CATCAGGCTGTTG   7245
+
+c75979166-759   5953 CAGC-----------------------TACCTGTCTCATCTCATTGCCCA   5979
+                     ..||                       |.||||||||.||..|||.|   
+c116089605-11   7246 GTGCTTAGCTTCCCCTCTCCCTTTATATTCCTGTCTCTTCCGATTTC---   7292
+
+c75979166-759   5980 CTAGCAGGGTTATAAGGCAGTTTGGAAAAAAGTCCATGATTCTCTTCATC   6029
+                     |||.|.||.||.|   ||  ||||     .||.|||.|           |
+c116089605-11   7293 CTATCTGGTTTTT---GC--TTTG-----TAGCCCAGG-----------C   7321
+
+c75979166-759   6030 TGACTTCAGTCTTTTTAGACATTTTTTCC-CCTACATGTCTGGGAACTCT   6078
+                     ||.||||||.|  |..|||       ||| ||    ||.||..|..|.||
+c116089605-11   7322 TGTCTTCAGAC--TCAAGA-------TCCTCC----TGCCTCAGCGCCCT   7358
+
+c75979166-759   6079 TGTGTTGCCAGTAATTCTTTGTTAAA--TTGTTCCTAAATATCTGGCTTC   6126
+                     ..||||.||.|...||||      ||  .||||||           .|||
+c116089605-11   7359 GCTGTTTCCTGAGGTTCT------AAGCATGTTCC-----------GTTC   7391
+
+c75979166-759   6127 ---CTTCAAAAAGTTT--------TGCTTTTGATCTTAATGT----GAAA   6161
+                        ||.||.|.|||||        ||.|..|||...|.||||    ||||
+c116089605-11   7392 CAGCTCCACACAGTTTAAAATACCTGGTGATGAATATGATGTTACAGAAA   7441
+
+c75979166-759   6162 T----------AGG---TTTGTT-TTCATAG--ACAAGGC----------   6185
+                     |          |||   |||.|| ||  |||  |||||.|          
+c116089605-11   7442 TCCAAGACAAAAGGCACTTTATTATT--TAGGCACAAGTCGCTGTCTCTC   7489
+
+c75979166-759   6186 ---CAT-----------TGGCAGG------TTTGAGTGTTTGGAATTTG-   6214
+                        |||           |.|||||      |||  |||||  ||  ||| 
+c116089605-11   7490 ATACATAGGCACTGGAGTTGCAGGAGCTCATTT--GTGTT--GA--TTGG   7533
+
+c75979166-759   6215 -AACTGCCCAGCCTCA-------TGTCTAATTATCAAAATGGCAGGAGTA   6256
+                      |||  .||.|.||||       ||||      |||.|.||||.|..|| 
+c116089605-11   7534 CAAC--ACCGGTCTCAGCCTGGGTGTC------TCAGAGTGGCTGCGGT-   7574
+
+c75979166-759   6257 AAGAAAG-GGAAAGAAAAAGGGATGCAGATATCAGGGAAACATCATTTTG   6305
+                         .|| |||.||.|.||  ||.||      ||.||   |..|.||.||
+c116089605-11   7575 ----CAGTGGAGAGCAGAA--GAGGC------CAAGG---CTGCCTTGTG   7609
+
+c75979166-759   6306 TGTTTGATTGCTGATTTCAGTGTGTGAATTGGTTTA--AGGAAAATGTTA   6353
+                     ||     .||.|||||||      ||||.|||..||  |||.|       
+c116089605-11   7610 TG-----CTGTTGATTTC------TGAAATGGAATAGTAGGCA-------   7641
+
+c75979166-759   6354 TTTATTGTCATCTCCATGGGTAC---TGCAGCTTTCTGGT---------C   6391
+                           || |.||  .|||.|.|   |||.|||||..|||         |
+c116089605-11   7642 ------GT-AGCT--GTGGTTGCTGTTGCTGCTTTAAGGTGATGGGCTCC   7682
+
+c75979166-759   6392 ATGGTTTGA-TGTTCCAGACACTT--TA-CTAAACACTCAAGACTT----   6433
+                     .|||..||| |.||||     |||  || |||.|.|.||    |||    
+c116089605-11   7683 GTGGAGTGAGTCTTCC-----CTTCCTACCTACATAGTC----CTTGCTC   7723
+
+c75979166-759   6434 --CAACTT--------CAAGATGGTCAGTACTGAAATTATAAGCCTGAAA   6473
+                       |..|||        ||||||        ||           ||||...
+c116089605-11   7724 TGCTCCTTGTGAAGCCCAAGAT--------CT-----------CCTGGGT   7754
+
+c75979166-759   6474 GA-AAGGTTTGTAAAGGAAGATAAGATTCTTTTTTTTTTTTTTTTT----   6518
+                     || |||.|||.|              ||||||||||||||||||||    
+c116089605-11   7755 GAGAAGTTTTCT--------------TTCTTTTTTTTTTTTTTTTTCTTT   7790
+
+c75979166-759   6519 -----TTTGAGACAGAGTTTTGCT-TTTTTTGCCCAGGCTGGAGTGCAAT   6562
+                          ||||||||||.||||  || |.|.|.||||.|||||...||    
+c116089605-11   7791 CTTTCTTTGAGACAGGGTTT--CTCTGTGTAGCCCTGGCTGTCCTG----   7834
+
+c75979166-759   6563 GGCATGATCTCAGCTCACTG-----CAACCTCCGCCTCTGGGTTCAAGTG   6607
+                          ||.||||   |.|||     ||..|| .||||| |...|| ||..
+c116089605-11   7835 -----GAACTCA---CTCTGTAGACCAGGCT-GGCCTC-GAACTC-AGAA   7873
+
+c75979166-759   6608 ACTCTCCTGCCCGAGCCTCCCGAGTAGCTGGAATTACAGGTGCT----CA   6653
+                     |.||.||||||...||||||||||| |||||.||||.|||.| |    ||
+c116089605-11   7874 ATTCACCTGCCTCTGCCTCCCGAGT-GCTGGGATTAAAGGCG-TGAGCCA   7921
+
+c75979166-759   6654 CCACCACGCCCGGCTGA----TTTTGTATTT---TTAGTAGAGACGTGGT   6696
+                     ||||||.||      ||    ||||..|..|   ||||..||.||.|..|
+c116089605-11   7922 CCACCAGGC------GAGAAGTTTTCAAAGTCACTTAGCCGACACATCAT   7965
+
+c75979166-759   6697 TT---CTCCA-----TGTTGG----CCAGGCTGGTCTTTA--ACTC---C   6729
+                     ||   ||.||     |.||||    |.|||  .|.||.||  |..|   .
+c116089605-11   7966 TTGTACTTCAAATTCTTTTGGTGCACAAGG--AGCCTGTAGGAAGCAGGG   8013
+
+c75979166-759   6730 TGACCTCAGGTGA--------TCTGTC--CACCTTGGCTTCCCAAAGTGC   6769
+                     |||||   |||||        |.||||  ||     ||||.|....||||
+c116089605-11   8014 TGACC---GGTGAGATTAGTTTGTGTCTTCA-----GCTTTCATGTGTGC   8055
+
+c75979166-759   6770 TG-----GGATTACAGGCTACAGGCGTGAGCCACCGCGCCTGGCTGACAG   6814
+                     ||     |||         |.||||   ||.||      ..||||   ||
+c116089605-11   8056 TGTTTTCGGA---------AAAGGC---AGTCA------AGGGCT---AG   8084
+
+c75979166-759   6815 AT--------CCTTCCTTTTTTT-----TTTTTTTTTTGGAGAC----AG   6847
+                     ||        |.||||||..|||     ..|..||..|||.|||    | 
+c116089605-11   8085 ATCATGTACACTTTCCTTAATTTGAAGCAGTGCTTGCTGGTGACTTTTA-   8133
+
+c75979166-759   6848 AGTCTCAC--------TCTGTCGCCCAGGCTGGAG-----TGCAG-TTGT   6883
+                     |..|||||        ||           ||||||     |.||| |.||
+c116089605-11   8134 ATGCTCACATTAGATATC-----------CTGGAGACCTTTACAGATAGT   8172
+
+c75979166-759   6884 GCCATCTCGGCTCGGTGCAAGCTCCGCCTCCTGGGTTCACGCCATTCTCC   6933
+                     |  |||                 |.||  ||||..|  ||||..||.|  
+c116089605-11   8173 G--ATC-----------------CTGC--CCTGAAT--ACGCACTTAT--   8197
+
+c75979166-759   6934 TGCCTCAGCTCCTCAGTAGCTGGGACTACAGGTGCCCGCCACCACG----   6979
+                              |||||||     ||.|||     ||       ||.||    
+c116089605-11   8198 ---------TCCTCAG-----GGCACT-----TG-------CCTCGGTGA   8221
+
+c75979166-759   6980 CCCGGCTAATTTTTTGTATTTTAGTAGAGACGGGGTTTCACCGTGTA---   7026
+                     ||.|||                .||       ||||    ..|||||   
+c116089605-11   8222 CCTGGC----------------GGT-------GGGT----GGGTGTAGTC   8244
+
+c75979166-759   7027 --AGC--------CAGGATGGTCTTGATCTCCTGACCTCGTGA-TCTGCC   7065
+                       |||        ||.|||||                  .||| |.||  
+c116089605-11   8245 CTAGCACTTCCGGCATGATGG------------------ATGAGTATG--   8274
+
+c75979166-759   7066 CTCCCAAAGTCCTGGGATTACAAGGCATGAGCCACTGCACCCGGCCTGAG   7115
+                            |.||.|||||.|    ||   |||  |||||||..|||||  .
+c116089605-11   8275 -------AATCTTGGGAGT----GG---GAG--ACTGCACTGGGCCT--C   8306
+
+c75979166-759   7116 AGATAAGATTCT-------------TTATGTAGT----CCTCCTCGCT--   7146
+                     |.||||.|||||             |||.|.|||    |  |||.|||  
+c116089605-11   8307 AAATAACATTCTGTGGCAGCCAGAGTTAGGGAGTGAGAC--CCTGGCTCA   8354
+
+c75979166-759   7147 ---------------------TGGAGTA-TCTGTG-TGTTTGTGTACATG   7173
+                                          |.|| || |||.|| |||||.|..||| |
+c116089605-11   8355 TAAGAATTTTCTTTCCTTAAATAGA-TATTCTTTGTTGTTTTTTAACA-G   8402
+
+c75979166-759   7174 C------ATGCGTGGTGTGTGTGTGTGTT--GTAATTT------------   7203
+                     |      |.|..|..|.||||   |.|||  .|||.||            
+c116089605-11   8403 CTCTATAAAGAATATTTTGTG---GAGTTCCTTAACTTCAAAGCGAGTTA   8449
+
+c75979166-759   7204 ----TG-AAGTA-----------------GCTTTGTGGTACAGAA-----   7226
+                         || |||||                 ||    ||...|||||     
+c116089605-11   8450 AACCTGAAAGTAACACTAAGGCTCCCAGCGC----TGACTCAGAACAGCC   8495
+
+c75979166-759   7227 ------------------------------CTCTGTTTCAGTATTCATCA   7246
+                                                   |.||||||.||     ||.|
+c116089605-11   8496 AGCCAGGCAGACCAGAGGAGGCGCAGGGTCCACTGTTTTAG-----ATAA   8540
+
+c75979166-759   7247 TTATAGAATTTATTC--GACTT---------------AACA---------   7270
+                     .|.|||||.|||..|  |||||               ||||         
+c116089605-11   8541 GTGTAGAACTTACACAGGACTTCTTTTTAAAAAACAGAACAAGCAGTCGT   8590
+
+c75979166-759   7271 -------GTCATGCTGTTCAT-AGGAG---------------GCATAAGA   7297
+                            ||||.|.|.|||.| |||.|               |||..||.
+c116089605-11   8591 TGGTTGTGTCAGGGTCTTCCTGAGGTGCCTGGGCCATCCCCAGCACCAGG   8640
+
+c75979166-759   7298 TGTGAAA------TAGT------CTGAGGCTAATG-GATTTG---TTA-A   7330
+                     ...||||      .|||      ||||||    || ||.|.|   ||| |
+c116089605-11   8641 GAGGAAACAAAAGGAGTCTGGCCCTGAGG----TGAGAATAGACATTACA   8686
+
+c75979166-759   7331 GTA----TACCTCTTACCTCTTG--TTGGTCTAATG------CTTCTGC-   7367
+                     |.|    |..|||||..||||||  |||   |||.|      .||||.| 
+c116089605-11   8687 GGAGAGCTTGCTCTTGGCTCTTGGCTTG---TAAAGTAGAAAATTCTACA   8733
+
+c75979166-759   7368 -CTCATTTATAAAGTAATATCACAAATATATA-TTTGCCCT---------   7406
+                      .|||||       |||||..|.|.||.|..| |||.||.|         
+c116089605-11   8734 TTTCATT-------TAATAGAAGAGATCTTCAGTTTTCCATCCTTCATCC   8776
+
+c75979166-759   7407 -----------AATTTTTTTTTTTTTTTT-------TGAG----------   7428
+                                |||||.||||.||||.||       ||||          
+c116089605-11   8777 TGAGGGGCAAGAATTTATTTTATTTTGTTGAGAATGTGAGGTTAGGGGCT   8826
+
+c75979166-759   7429 -TCAGAGT--CTCATCCTGTG----CCCCAG-GCT-----GAAG--TGCA   7463
+                      .||.|||  ||||  |.|||    ||.||| |||     ||.|  ||||
+c116089605-11   8827 AGCAAAGTGGCTCA--CGGTGCTTACCGCAGAGCTTGCCGGATGGATGCA   8874
+
+c75979166-759   7464 GTGGAGTGAT-----------------------------------CTCAG   7478
+                     ||   |||||                                   |.|||
+c116089605-11   8875 GT---GTGATTTCTGGACGGTAAAGGTGGGAAGGGGGCTGTTGTACACAG   8921
+
+c75979166-759   7479 CT---CACTGCAACCTCCA-------------------CCTCCT-----G   7501
+                     ||   |.||||  ||.|||                   ||||||     |
+c116089605-11   8922 CTGTCCTCTGC--CCCCCACGTGTGCCGTGCACATATGCCTCCTTCCCCG   8969
+
+c75979166-759   7502 GGT-----TCAAGGGATTCT-----CCTGCCTCAGCC-------------   7528
+                     .||     ||.|     |||     |||..|||||.|             
+c116089605-11   8970 TGTCTCTCTCCA-----TCTCCCTCCCTCACTCAGGCACACGCACGCACA   9014
+
+c75979166-759   7529 ------TCCTGA----------------------------------GTAG   7538
+                           ||||.|                                  ||||
+c116089605-11   9015 CGCTAATCCTAACAGTGATGATGAGAGAAAGTGTAGCGCACAGTCTGTAG   9064
+
+c75979166-759   7539 CTGG-------GATTACAGGCACCTGC-----------------------   7558
+                     |.||       ||.|.||.||||..||                       
+c116089605-11   9065 CGGGAGGCCGAGACTGCACGCACACGCGCGCACACCACACACACACACAC   9114
+
+c75979166-759   7559 -CAC-CATGCCCGGCTA---------------------------------   7573
+                      ||| ||.||.| ||||                                 
+c116089605-11   9115 ACACACAAGCAC-GCTAACCCTAACAGTGATGAGAGCGTGTAGCGCAGTC   9163
+
+c75979166-759   7574 -----------------ATTTTGTTATTTT--------TAG--TAGAGAT   7596
+                                      ||.||.||.||||        |||  ||.|.||
+c116089605-11   9164 TGCAGCGCTGGGCTGAGATATTTTTCTTTTCTCTCCTGTAGACTACATAT   9213
+
+c75979166-759   7597 GGGGTTTGGCCATTTTG----GCCAGGCTGGTCTCAA--AC---------   7631
+                     |      |.|.||||||    .|| .|.|||.|||||  ||         
+c116089605-11   9214 G------GTCAATTTTGTGGAACC-TGTTGGCCTCAATTACTCCATGTTT   9256
+
+c75979166-759   7632 -TCCTTACC--------TCAGGTGATCCACCTGTCTCAG-----------   7661
+                      |||.||||        ||||| |..||| ||| |||||           
+c116089605-11   9257 ATCCCTACCTTGCTGAATCAGG-GCACCA-CTG-CTCAGCAGGAGAAATG   9303
+
+c75979166-759   7662 --------CCTCCCAAAGTGCTGGGATTACAGGTGTGAGTCACC-ACGCC   7702
+                             |.||||||       |.|.|.|||.|....|.|||| |||||
+c116089605-11   9304 GATGCACCCGTCCCAA-------GAACTCCAGATAATTGGCACCTACGCC   9346
+
+c75979166-759   7703 CGGCCTGCCCTAATTTTTGAAAGGAGA-----------------------   7729
+                     |.|                 |.|||||                       
+c116089605-11   9347 CAG-----------------ACGGAGATGGGCCACGGTTAGTCCACATCT   9379
+
+c75979166-759   7730 GAGGAAGAAAGGAAGACTTGAACTATACTG-GTTTGAGGCAAACAGAAGT   7778
+                     ||||.|....|||.|||   .||| ||.|| |||     |||        
+c116089605-11   9380 GAGGGACCTGGGATGAC---CACT-TAATGAGTT-----CAA--------   9412
+
+c75979166-759   7779 TGGACAGAGA-TCCTATATGGCTGTGGGCAAGTTTGCATTTGTTAGA-GT   7826
+                      |.|.||.|| ||||     ||||         |||.|||      | ||
+c116089605-11   9413 -GAAAAGCGACTCCT-----GCTG---------TTGGATT------ATGT   9441
+
+c75979166-759   7827 TTTCGTTCCCTTATTGCTTTTAGT-TTTGGGTATTTTTTTTTTT------   7869
+                     |||| |||.|.|..||||.|  || |||||| |||||.||||||      
+c116089605-11   9442 TTTC-TTCTCCTGCTGCTAT--GTGTTTGGG-ATTTTATTTTTTAAGTTG   9487
+
+c75979166-759   7870 ----------------TTT---TTTGAGACAGAGTTTTGCTCTTGTTGCC   7900
+                                     |||   |||    |.||||||...||||      
+c116089605-11   9488 TGGCATCAAAACCCAATTTCTCTTT----CTGAGTTTATTTCTT------   9527
+
+c75979166-759   7901 CAGGCTGGAGTGCAAT-GGCGCGATCT-CGGCTC---CCCGCAACCTCCG   7945
+                     ||        |..||| ||     ||| .|||||   ...|||.|.||.|
+c116089605-11   9528 CA--------TAAAATAGG-----TCTAGGGCTCTGATGAGCATCTTCAG   9564
+
+c75979166-759   7946 ----CCTCCCAGGTTCAAGTGATTCTCCTGCCTCTCCC---TCCCTA---   7985
+                         .||||    ||.||  |.||.||.|   ||||.|   |.||||   
+c116089605-11   9565 TGTCACTCC----TTAAA--GCTTGTCAT---TCTCACAGATACCTACTG   9605
+
+c75979166-759   7986 -----------GTAGCTGGGA----------TTAGAGGCGTGTGCCACCA   8014
+                                |.||||.|||          |||||||.|||...||||.
+c116089605-11   9606 TTAGCTGCTGTGCAGCTTGGAGAGATGGTGTTTAGAGGTGTGGAGCACCC   9655
+
+c75979166-759   8015 TGCCCGGCTAAT-TTTGTATTTTCAGTAGAGACGGGGTTTCTCCATGTTG   8063
+                     .||...|||..| |.||||.|                        |||||
+c116089605-11   9656 AGCTATGCTGGTGTGTGTAAT------------------------TGTTG   9681
+
+c75979166-759   8064 GTCAGGCTGGTCTCGAA----CTCCCGACCTTAGGTGATCTGCCCGCCTC   8109
+                                   |||    |||           ||||           
+c116089605-11   9682 --------------GAAGTGCCTC-----------TGAT-----------   9695
+
+c75979166-759   8110 GGCCTC-CCAAAGTGCTGGGATTATAGG---CGTGAGCCATCATGCCCAG   8155
+                      ||||| |||..|| ||||      |||   |||.||     |.||.|.|
+c116089605-11   9696 -GCCTCACCAGCGT-CTGG------AGGTGACGTCAG-----AAGCACGG   9732
+
+c75979166-759   8156 CTAGTTTT---------------GGGTATTTTCTTG-TATTTAAACCAAC   8189
+                     || ||..|               |||.|.|.||||| |.||       ||
+c116089605-11   9733 CT-GTAATGACACGGTGAAAGCAGGGAACTGTCTTGCTCTT-------AC   9774
+
+c75979166-759   8190 GTTGTCT--TA--ATCTCTGTGGTTTAGAGAACAGTGTCCTAAGATTAGT   8235
+                     ||||.||  ||  ..|||....||||..|.||| |..||||..|.|||  
+c116089605-11   9775 GTTGCCTGCTAGCTGCTCCAAAGTTTGTAAAAC-GAATCCTGTGGTTA--   9821
+
+c75979166-759   8236 CTTTTTTCTTGCTGGAATTTTGCTAATTCATATTGCTGTTCTTGGTTGA-   8284
+                         |.|||.||||   |||||     ||.||   |.||||.|...||| 
+c116089605-11   9822 ----TCTCTGGCTG---TTTTG-----TCGTA---CAGTTCCTCCGTGAG   9856
+
+c75979166-759   8285 TGAC---TGATCTTTTCCTTGGAAATAAGTCAG-----GTTGGTTAA---   8323
+                     ||.|   .||||.|||.||         |.|||     .||||||||   
+c116089605-11   9857 TGTCCGTGGATCCTTTACT---------GCCAGTAGCTTTTGGTTAAACC   9897
+
+c75979166-759   8324 -TTTGCA---------------TCACGTGACGGTTTTA-TCTTA-TATGG   8355
+                      ||..||               |||   ||..|||.|| |||.| |.|||
+c116089605-11   9898 CTTCCCAAGTGCTTGGGTGTGTTCA---GAAAGTTGTAGTCTCAGTGTGG   9944
+
+c75979166-759   8356 AATA----------CA---CAAAAAGTCAACGTCCAGGAGATCGGCAATA   8392
+                     ||||          ||   |.||||.|||     |||.|..|..|| |||
+c116089605-11   9945 AATAGGATTGTTTTCAGAGCTAAAACTCA-----CAGTAAGTGTGC-ATA   9988
+
+c75979166-759   8393 GAGCAGCTTATATAGAATGAGATCTAACTATTTAAATTCTGAGA------   8436
+                     ....|||||.|.|.|  |..|.|.|...|.|||||     ||||      
+c116089605-11   9989 TTTTAGCTTTTGTTG--TTTGCTTTGGTTGTTTAA-----GAGAAGGTTG  10031
+
+c75979166-759   8437 --CTT-------TGGAAAATGGATCAACAGTGAACAGTG-ATTAT--CTA   8474
+                       |||       |||  ..|||.|      |||||| || |.|.|  ||.
+c116089605-11  10032 GCCTTGTTAGCCTGG--GCTGGCT------TGAACA-TGCAGTCTTCCTC  10072
+
+c75979166-759   8475 ACGCGGTCTCACAGAAGTAGCT------GTAACTT---------------   8503
+                     .|..||.|||   .|.|| |||      |||||||               
+c116089605-11  10073 CCTTGGCCTC---CATGT-GCTGCAATGGTAACTTGGCACCGTGTGCCCA  10118
+
+c75979166-759   8504 -------TGGG---------TTTGGGAT----TCTTTC--ACTTCTGGGT   8531
+                            ||.|         ||||.|||    |..|||  |||||.|   
+c116089605-11  10119 GCAGGTGTGAGTGTTTTACATTTGAGATGACCTGCTTCATACTTCAG---  10165
+
+c75979166-759   8532 AGCTGC--TGA------------GAAGTGAAGGGGCTCAGAAGTATTCAG   8567
+                        |||  |||            ||||.||||||              ||
+c116089605-11  10166 ---TGCCATGATGGAGGAACCATGAAGAGAAGGG--------------AG  10198
+
+c75979166-759   8568 GTTCACTCCATGTTCCTTCCAAA----TCCTAAAATTCAGTCAC------   8607
+                     .|.||   ||||      |.|||    ||.||.||..||| |||      
+c116089605-11  10199 TTGCA---CATG------CTAAAGCAGTCTTACAACCCAG-CACTTTGGG  10238
+
+c75979166-759   8608 ---CTACAGAAAG-TCTCAGTCACCAGCATTATCCTTCTTTCTAGAG---   8650
+                        ||.|||.||| |..||      ||           ||||.||.|   
+c116089605-11  10239 AGGCTGCAGGAAGATTGCA------AG-----------TTTCAAGTGAAC  10271
+
+c75979166-759   8651 -TGTGTCTTC----TT---TCCTCTAAGGACACGAAGAAACTCGGATATA   8692
+                      || |.||||    ||   ||||||.||       ||||.|.||.|    
+c116089605-11  10272 CTG-GACTTCGAAGTTCAATCCTCTCAG-------AGAACCACGCA----  10309
+
+c75979166-759   8693 CACCTGCCCTGTGGGTCTGGGAGCCATAATCAAAGGCAGAGGCC---TGA   8739
+                                 ||||.|||| ||        |||   ||.|||   |.|
+c116089605-11  10310 ------------GGGTGTGGG-GC--------AAG---GATGCCAAATAA  10335
+
+c75979166-759   8740 ACCTGGGTGATAGGCTCACCTCCCTGGAGTTCTGGGATCAAAGGAACAGC   8789
+                     |.|||..|.|||     |.||||    ||    |||||            
+c116089605-11  10336 ATCTGCATTATA-----ATCTCC----AG----GGGAT------------  10360
+
+c75979166-759   8790 CTGGGGAACTGGGTCCATGTTATCATCCTGACCATATGTTTCTTTAGGCC   8839
+                              |||..|.|||                       .|||||  
+c116089605-11  10361 ---------TGGCGCGATG-----------------------CTTAGG--  10376
+
+c75979166-759   8840 ACAAAACAGGT-------CGTTTGTTTGCTCT-TCACAGATA--------   8873
+                             |||       .||.|||..|||.| |||||||.|        
+c116089605-11  10377 --------GGTTAGATGGTGTGTGTGAGCTATATCACAGACACCCAAGGC  10418
+
+c75979166-759   8874 TGTAATCATTTCAAGATG-------TGG---------------CCATTTC   8901
+                     |.||     ||||.||||       |||               .|||.||
+c116089605-11  10419 TTTA-----TTCAGGATGCCAACACTGGAAGGACAGGCCTAGAACATCTC  10463
+
+c75979166-759   8902 -----TGGAGA-TTCT----TCTTGCTTTGTTTTCCTTGTTTGCTTGCTT   8941
+                          .||||| |.||    |.|||   |||.|||||| |.||..||  |
+c116089605-11  10464 CCGAGGGGAGAGTGCTGTAATATTG---TGTCTTCCTT-TCTGGATG--T  10507
+
+c75979166-759   8942 GCTCACTTCCTTCCTTCCTTCCT-------CTT-----------------   8967
+                     .||.||  ||  .|.||||||.|       |||                 
+c116089605-11  10508 ACTGAC--CC--GCATCCTTCGTAAGAGGCCTTAGGTGTGAAGTGTAAGG  10553
+
+c75979166-759   8968 ---TTTTTTTTTTTTTTTGAAGGAGTCTCATGTTGCCC------------   9002
+                        |||.|.|.|.|||||  ||...||||.|||||.||            
+c116089605-11  10554 AAGTTTATATGTCTTTTT--AGTCTTCTCTTGTTGGCCTAATGTTTCTGC  10601
+
+c75979166-759   9003 ---AAGCT---GGAGTGGTGCAATGGTACAATCTCGGCT---CACTGCAA   9043
+                        |||.|   .|||.||         |||     |.||   .|||..||
+c116089605-11  10602 TTTAAGTTTAGAGAGAGG---------ACA-----GACTTAAGACTTGAA  10637
+
+c75979166-759   9044 C-CTCCACCTCCCCCTGGTTG--------AAGTGATTCTCCTGCCTCAGC   9084
+                     | ||           |||.||        ||||||        .||||  
+c116089605-11  10638 CTCT-----------TGGCTGAGATCAGAAAGTGA--------ACTCA--  10666
+
+c75979166-759   9085 CTCCTGAGTAG--------CTGGGATCACAGGTGTGCACCACCATACCTG   9126
+                             |||        ||||    |||.||.||          ||||
+c116089605-11  10667 --------TAGGTCTTTCTCTGG----ACAAGTTTG----------CCTG  10694
+
+c75979166-759   9127 GCTAATATTTATATTTTTAGTAGAGACAGGGTTTCACCATGTTGGCCAGG   9176
+                            |||.||.|||     |.||||                      
+c116089605-11  10695 -------TTTCTAATTT-----GGGACA----------------------  10710
+
+c75979166-759   9177 CTGGTCTTGAACTC-CTGACCTCAGGCGATCTGCCCACCTC-----GGC-   9219
+                      ||.|||||.| || .|.|.|||||..|       ||..||     ||| 
+c116089605-11  10711 -TGTTCTTGTA-TCGGTCAGCTCAGTTG-------CATGTCTATAGGGCG  10751
+
+c75979166-759   9220 CTCCCAAAGTGCTGGGATTAG----AAGTGTAAGCCACTGCACCCGGCCT   9265
+                     ||..||..||||.|.|.|.||    ||||.|       |||         
+c116089605-11  10752 CTGTCAGGGTGCAGTGGTGAGGGTTAAGTTT-------TGC---------  10785
+
+c75979166-759   9266 CTTTCTC--------GCTCTCTTTCTGTCTTC-TTCCCTTCCTCCATTCC   9306
+                       |||||        |.||..|||..|.|||| |||||..|||       
+c116089605-11  10786 --TTCTCGGTGATTTGTTCAGTTTTGGCCTTCTTTCCCACCCT-------  10826
+
+c75979166-759   9307 TTTCGTTCCTTTCTTTC-------TTTATTCCTCACCCATGGACTGGGGT   9349
+                             ||||||.||       ||.|                 |.|||
+c116089605-11  10827 --------CTTTCTGTCCTGCGGGTTAA-----------------GAGGT  10851
+
+c75979166-759   9350 CACAT-TGCCTTG------TTTCGTATTACCATCTATTTAGGAATATAGA   9392
+                     ||.|| ||  |||      ||.|.|||.||  |.|||||....|||.|||
+c116089605-11  10852 CAAATCTG--TTGGTTAATTTACATATGAC--TGTATTTCCTGATAAAGA  10897
+
+c75979166-759   9393 GATTGTATGATACATAGTTATCCTT----------GAAGCTGATGCAGTA   9432
+                      |.||..|.|.|||.|   ||||||          |||   .|.||||..
+c116089605-11  10898 -ACTGGTTAAAACACA---ATCCTTTCCCTTAAAGGAA---AAGGCAGGT  10940
+
+c75979166-759   9433 TCCTGGCAA-ATTGCCATCATTAACACTTAAATATGAAATAATGCACCTT   9481
+                     .||||.||| .|||   ||.||.|| |||   ||||          ||||
+c116089605-11  10941 CCCTGTCAAGTTTG---TCTTTTAC-CTT---TATG----------CCTT  10973
+
+c75979166-759   9482 TCT-----TTGAAACTGGAAAGAGGTA----GTAAACTTGATTTTTAAGT   9522
+                     .||     ||.|     ||.|||..||    |.||.|||||         
+c116089605-11  10974 CCTGTCCCTTCA-----GACAGACATACCAGGAAATCTTGA---------  11009
+
+c75979166-759   9523 CATCAG-TCTTTACC---------GCA   9539
+                        ||| |||.|.||         |||
+c116089605-11  11010 ---CAGATCTGTTCCTGGTCCCAAGCA  11033
+
+
+#---------------------------------------
+#---------------------------------------

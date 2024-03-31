@@ -1,0 +1,969 @@
+########################################
+# Program: needle
+# Rundate: Sun 31 Mar 2024 06:00:26
+# Commandline: needle
+#    -auto
+#    -stdout
+#    -asequence emboss_needle-I20240331-060023-0364-59769350-p1m.asequence
+#    -bsequence emboss_needle-I20240331-060023-0364-59769350-p1m.bsequence
+#    -datafile EDNAFULL
+#    -gapopen 10.0
+#    -gapextend 0.5
+#    -endopen 10.0
+#    -endextend 0.5
+#    -aformat3 pair
+#    -snucleotide1
+#    -snucleotide2
+# Align_format: pair
+# Report_file: stdout
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: 119452497-119542332
+# 2: c14826216-14823570
+# Matrix: EDNAFULL
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 11559
+# Identity:    1741/11559 (15.1%)
+# Similarity:  1741/11559 (15.1%)
+# Gaps:        9341/11559 (80.8%)
+# Score: 2368.0
+# 
+#
+#=======================================
+
+119452497-119      1 ATTCCCCGCCTCCTCCTGTCCCGCAGTCGGCGTCCAGCGGCTCTGCTTGT     50
+                                                                       
+c14826216-148      1 --------------------------------------------------      0
+
+119452497-119     51 TCGTGTGTGTGTCGTTGCAGGCCTTATTCATGGGCTCACCGCTGAGGTTC    100
+                                                                       
+c14826216-148      1 --------------------------------------------------      0
+
+119452497-119    101 GACGGGCGGGTGGTACTGGTCACCGGCGCGGGGGCAGGTGAGCATGCGAA    150
+                                                                       
+c14826216-148      1 --------------------------------------------------      0
+
+119452497-119    151 GGTTGGAGGCCGCGCCCCTTGCTGAGGCGCAGCTGGCTGCTCTTTTCGGG    200
+                                                                       
+c14826216-148      1 --------------------------------------------------      0
+
+119452497-119    201 CCGGCATACGCGCGCAGCCGCAGCTGAGGTCACCCCGCTGAGGTGGTGGG    250
+                                                                       
+c14826216-148      1 --------------------------------------------------      0
+
+119452497-119    251 GAGGGGAATGGTTATTCTTGAGGCACCGCATCTCTTGAGGAGGAAAGAGC    300
+                                                                       
+c14826216-148      1 --------------------------------------------------      0
+
+119452497-119    301 CGGAAACACCTGGTCTCTCAAGCAGGTACAGCCCGCTTCTCCCCAGCACC    350
+                                                                       
+c14826216-148      1 --------------------------------------------------      0
+
+119452497-119    351 CCGGTGTGGGCTTCCCAAGGTCCTGCCTGAGAGGAGAGGCCAGGCTGGGC    400
+                                                                       
+c14826216-148      1 --------------------------------------------------      0
+
+119452497-119    401 TGCTGATTGCAAAACTGGGTGAAAGTTCTCCCTGACCCTTATCTGTGGGC    450
+                                                                       
+c14826216-148      1 --------------------------------------------------      0
+
+119452497-119    451 ATCGATTGTTACTCTTCCTGCAATTAACTCTCTTAGATCTTTGCCTAGTC    500
+                                                                       
+c14826216-148      1 --------------------------------------------------      0
+
+119452497-119    501 TTTTAAAGGACTGAAAAGCCGCGAGGGGCGGGGGCTGGAATTCGCCCCCT    550
+                                                                       
+c14826216-148      1 --------------------------------------------------      0
+
+119452497-119    551 GAAGCGCAGAGATGTCAGCTCCTGAAAAGTCATTCGGTCGTTCAGTGTTT    600
+                                                                       
+c14826216-148      1 --------------------------------------------------      0
+
+119452497-119    601 GTTTCCCTCTGTCGTAAGATTTTAAGTTCGTGAGAGGACCTTCTTTAAAG    650
+                                                                       
+c14826216-148      1 --------------------------------------------------      0
+
+119452497-119    651 AGGGCGTCTGATAAGAGCCCTTCCCCGTTGGAGTTTGTATGCTTAGCAAG    700
+                                                                       
+c14826216-148      1 --------------------------------------------------      0
+
+119452497-119    701 TCACAATCTGTTCTCGAAATCCACTGGAGTCTTGGCAGAGGTTGTAAGCT    750
+                                                                       
+c14826216-148      1 --------------------------------------------------      0
+
+119452497-119    751 CAAATGCGCACAGGGGTCAGGCGTATGATGGAGAAAGAAAATGGGAGTAG    800
+                                                                       
+c14826216-148      1 --------------------------------------------------      0
+
+119452497-119    801 GATGGGCACATCTGAGGAACTGGAGAGCAGAGAATTCCGAAGTGGACCGG    850
+                                                                       
+c14826216-148      1 --------------------------------------------------      0
+
+119452497-119    851 CCAGTGGGAAAGTTGCCTGTATTTCAGGAGCGGCAAAATGGAAAATTGTT    900
+                                                                       
+c14826216-148      1 --------------------------------------------------      0
+
+119452497-119    901 ATGTGAAATAGCCCCATTTTTTAAAGTACAAAAAATTAAAACAAACCATT    950
+                                                                       
+c14826216-148      1 --------------------------------------------------      0
+
+119452497-119    951 CATACCAACATAGATGCTGTGCAGTGAGATTTTACATTAGTTTCTCACCA   1000
+                                                                       
+c14826216-148      1 --------------------------------------------------      0
+
+119452497-119   1001 GTGGGTGACCTCTGTAACCTCCAAGTGCAGGGATCTTGACATTATGCACC   1050
+                                                                       
+c14826216-148      1 --------------------------------------------------      0
+
+119452497-119   1051 TTTGATTCTCCACTGGTAGTACCTTATACCTGGAAAGGCCCTAATGCATG   1100
+                                                                       
+c14826216-148      1 --------------------------------------------------      0
+
+119452497-119   1101 AATTATTTGAGTTATATATTAAACGTTACAAACTGGAATTCTGTCAATTA   1150
+                                                                       
+c14826216-148      1 --------------------------------------------------      0
+
+119452497-119   1151 ATTCCTATGTACTTTCATATCTGTATTGATAAAGTGGCTTCTTATGCTGC   1200
+                                                                       
+c14826216-148      1 --------------------------------------------------      0
+
+119452497-119   1201 CTTTCAGAAAATGCTTTCAGTGTTGATGAATAGCCAAGTATTTTATACCC   1250
+                                                                       
+c14826216-148      1 --------------------------------------------------      0
+
+119452497-119   1251 ATAGCTGTCTGGTTATCTCTGCATGGGCATGTATTTGGGTGTAGTCATAC   1300
+                                                                       
+c14826216-148      1 --------------------------------------------------      0
+
+119452497-119   1301 CTTCTAAATGTTTTTAGGAAAACATTTTGTTTACACTTTGCTTTTATTGT   1350
+                                                                       
+c14826216-148      1 --------------------------------------------------      0
+
+119452497-119   1351 AAATAATGTATTTTACAACGCTTGGTGTTTTAAATCTTTTTTGACAGCTC   1400
+                                                                       
+c14826216-148      1 --------------------------------------------------      0
+
+119452497-119   1401 TTGGATAATTTTCATGCAGGAGGTCCAGGGATTACATTCTAAGACGTTTT   1450
+                                                                       
+c14826216-148      1 --------------------------------------------------      0
+
+119452497-119   1451 TGCCATCGCTAAGGAGACTTTCCTTTTCAGGGGCTATATCTGAAAATCAT   1500
+                                                                       
+c14826216-148      1 --------------------------------------------------      0
+
+119452497-119   1501 TCAAGGATAGGGACTGCTTCTTTTGACACCATTAGCATACTTACACATGG   1550
+                                                                       
+c14826216-148      1 --------------------------------------------------      0
+
+119452497-119   1551 TATGCAGTACATTTTACACCAGTACTCAGTACACTTACACAAGCACATAC   1600
+                                                                       
+c14826216-148      1 --------------------------------------------------      0
+
+119452497-119   1601 ATCTGTATTTAAAACCAGTTCATGATATAGTGTGTAGTACAGGCAATGCA   1650
+                                                                       
+c14826216-148      1 --------------------------------------------------      0
+
+119452497-119   1651 TCCTGAAATTTATTTTCTATTCTGTTTTATTTATAAATTGTAATTGTAAC   1700
+                                                                       
+c14826216-148      1 --------------------------------------------------      0
+
+119452497-119   1701 CCACAAAATTGATTTTGTGAAACAATGAGTTGTGACTAGACAGTTATGAA   1750
+                                                                       
+c14826216-148      1 --------------------------------------------------      0
+
+119452497-119   1751 CTTAGCACCTGCTGTTCATAAACTGGTTAAATTCTCTCTTACCCATTCAG   1800
+                                                                       
+c14826216-148      1 --------------------------------------------------      0
+
+119452497-119   1801 AGTTGATTAAATTTTTTTTTTTTTTCAGAGCTAAAGGTTTTAC-TCTGTA   1849
+                                                  ||    ||.|.||| |.||.|
+c14826216-148      1 -----------------------------GC----GGCTGTACTTTTGGA     17
+
+119452497-119   1850 CCCAGGCTGGAGTGCAGTGACCCGATCATGGCTCACTGTAACCTTGAACT   1899
+                     .||     |||||..|||       |||  ||            .||.| 
+c14826216-148     18 TCC-----GGAGTCAAGT-------TCA--GC------------AGAGC-     40
+
+119452497-119   1900 CCTGGGCTCAAGTGATCCTTTTGCATCAGCTTCCAGACTAGCTAGGACTG   1949
+                     ||||||||..||.|           ||||| ..|||| |.||        
+c14826216-148     41 CCTGGGCTACAGGG-----------TCAGC-AGCAGA-TCGC--------     69
+
+119452497-119   1950 TAGGCATGTGCCA--CCA--CGCCCAGCTAATTTTTAAATGTTTTCAAGA   1995
+                        ||     |||  |||  |||||||||.|              ||.| 
+c14826216-148     70 ---GC-----CCACTCCAGGCGCCCAGCTCA--------------CAGG-     96
+
+119452497-119   1996 GATGGAGTCTC-GCTTTGTTGCCCAGG------CTGGTCTCAAACT----   2034
+                        ||||.||| |      |||..|||      |||||||    ||    
+c14826216-148     97 ---GGAGCCTCAG------TGCGGAGGCAAGCCCTGGTCT----CTGGTC    133
+
+119452497-119   2035 ----CCTGG------CCTCAAGTGATCCTTCTGCTTGGATTAAATTCTAA   2074
+                         |||||      ||.||....|||| ||||            ||..|
+c14826216-148    134 CTCCCCTGGGCTCTCCCACACCCCATCC-TCTG------------TCAGA    170
+
+119452497-119   2075 AATAAGTTATTTGGTGAAATTTCCTAGTTTTGGAAAACTGTATATTTTTG   2124
+                     .|.||          |||    .|.||    .||||.|            
+c14826216-148    171 GAGAA----------GAA----GCCAG----AGAAAGC------------    190
+
+119452497-119   2125 GTTCTTTTTGTTTTTGTTTGAGA-------GGGAG---------------   2152
+                                        ||||       |||||               
+c14826216-148    191 -------------------GAGACTGGCCGGGGAGGAGAAAGGCGCGCGC    221
+
+119452497-119   2153 --TTTTGCTCTG-----TTGCCGA--------GGCTGGAGTGCAGTGAC-   2186
+                       .|..||.|.|     |.|.|||        ||||.| ||| |||||| 
+c14826216-148    222 GCGTGGGCGCCGGGGAATAGGCGATGTCCACCGGCTCG-GTG-AGTGACC    269
+
+119452497-119   2187 ---ATGATCTTG--GCTGA-----CTGCA--------ACCTCTGCCTTCC   2218
+                        |.|| ||.|  |.|||     |||||        ||| |.|||  ||
+c14826216-148    270 CCGAAGA-CTCGGAGATGAGGGGGCTGCAGAGGGTCTACC-CGGCC--CC    315
+
+119452497-119   2219 GGGTTCAAACAATTCTCCTACCTCAGCCTCC-CAAGTAGCTGGGGGTACA   2267
+                     ||..||.||.|...|.||  |||   .|||| ||.|.||| |.||.|||.
+c14826216-148    316 GGCCTCCAAGAGGCCGCC--CCT---GCTCCGCATGGAGC-GCGGTTACG    359
+
+119452497-119   2268 GGTGCACACCACCAAGCCCAGCTGATTTTTGT------------------   2299
+                     |           |..||||||| ||..|||.|                  
+c14826216-148    360 G-----------CTCGCCCAGC-GACATTTCTTCTGCGGAAGAGGAGGAC    397
+
+119452497-119   2300 GGTTTGAATA-GAGACGGGGTTTCACCCTGTTGGCC-----AGGCTGGTC   2343
+                     ||  ||||.| |||.|.||    |.|||||...|||     |||.||   
+c14826216-148    398 GG--TGAAGAGGAGCCCGG----CTCCCTGGGAGCCGCGGGAGGATG---    438
+
+119452497-119   2344 TTGAACTCCAGACCTCAA-ATGATCCGCCCACCTCTGTCTCATAAAGTGT   2392
+                                    ||| |.||..||.|..|                ||
+c14826216-148    439 ---------------CAAGAGGAAGCGGCTCC----------------GT    457
+
+119452497-119   2393 TGGGATTACAGATG--------TGTGTCACTACTC-CTGGCCTTG-GGTT   2432
+                     .|||.|.|| |.||        .|||.|    |.| |.|||..|| ||  
+c14826216-148    458 GGGGCTGAC-GCTGGCGGCGCAGGTGGC----CGCGCAGGCGGTGCGG--    500
+
+119452497-119   2433 GTTTTTGGAAGGGGCTAATAATTTATGTATCTCAGTTTGTTATTTGTATA   2482
+                           |||||                                       
+c14826216-148    501 ------GGAAG---------------------------------------    505
+
+119452497-119   2483 CTTATTGATTAATTTATACTAAATATAAATTGTTAATTAAATTTATTCAT   2532
+                                                                       
+c14826216-148    506 --------------------------------------------------    505
+
+119452497-119   2533 TTGTCAATGAAATTTATCAATTAACTTAAAATGTAAAAAATATACACATA   2582
+                                                                       
+c14826216-148    506 --------------------------------------------------    505
+
+119452497-119   2583 TTAAAAAATGTAAACAATACAGAAAAACAATCCAGAAGTAAGCC-TTCCA   2631
+                                                            ||||| .||| 
+c14826216-148    506 ---------------------------------------AAGCCGCTCC-    515
+
+119452497-119   2632 CCCCTTATTGCT-AGCCACATAGTTCTGTCCTCCAGAGGTAACCACTAAT   2680
+                     |.|||.|..||| .|||.||.|||              |.||.||.|   
+c14826216-148    516 CGCCTAAGGGCTCGGCCGCAGAGT--------------GCAAGCAGT---    548
+
+119452497-119   2681 TGC-CAGTTTCTAATGTGTTTTTCCCGAGATACTCTATGCCTATAAAACT   2729
+                       | |||                 |.||        ||||          
+c14826216-148    549 --CGCAG-----------------CGGA--------ATGC----------    561
+
+119452497-119   2730 TCTCTCTTGGCTGGGGATGGTGGTGGCTCACGCCTGTAATCCCAGCACTT   2779
+                                             |||..|||||.|..|.|.| ||.|  
+c14826216-148    562 ------------------------GGCCAACGCCCGCGAACGC-GCCC--    584
+
+119452497-119   2780 TGGGAGGCCGAGGTGGGCTGATCACGAGG-----TCAAGA--GATCGAGA   2822
+                       |||.||    |.|.|||||.||  |.|     ||.|||  ||   |||
+c14826216-148    585 --GGATGC----GCGTGCTGAGCA--AAGCCTTCTCCAGACTGA---AGA    623
+
+119452497-119   2823 CCATCCTGGCCAACAT-GGTGAAACCCCATCTCTACTAAAAATACAAAAA   2871
+                     |||.||||.||    | ||||...|||.|    .||.||...|.|.||| 
+c14826216-148    624 CCAGCCTGCCC----TGGGTGCCGCCCGA----CACCAAGCTTTCCAAA-    664
+
+119452497-119   2872 TTAGCTGGGCGTGGTGGCGGGCGCCTGTAG-TCCCAGCTAC-TCGCG---   2916
+                         ||||.|..|.|     |||||||  | |.|||||||| |||||   
+c14826216-148    665 ----CTGGACACGCT-----GCGCCTG--GCTTCCAGCTACATCGCGCAC    703
+
+119452497-119   2917 -------AG--GCTG-AGG-----------CAGGACA---AT---CACC-   2938
+                            ||  |||| |||           .||||||   ||   |||| 
+c14826216-148    704 CTGCGCCAGCTGCTGCAGGAGGACCGCTACGAGGACAGCTATGTGCACCC    753
+
+119452497-119   2939 --TGAACCTGGGAGGTGGAGGTTGCAGTGAGC-CGAGATCATGCC-----   2980
+                       |||||||||.||     ||.|||  ||.|| ||||     |||     
+c14826216-148    754 TGTGAACCTGGTAG-----GGATGC--TGCGCTCGAG-----GCCGGGGG    791
+
+119452497-119   2981 ACTGCACTCCAG-------CCTGGGCGACAGAGTGAGACTGGAT----CT   3019
+                     ||.|||..||||       ||.|||| .|||     |.||||.|    |.
+c14826216-148    792 ACAGCAGCCCAGAGCGCTACCCGGGC-CCAG-----GGCTGGCTCGGCCC    835
+
+119452497-119   3020 CAAAAAAAAAGAAAAAA----AGCAAAACTTTCTCTCTCTCTCTCTCTCT   3065
+                     ||.|..||.||..||.|    ||                           
+c14826216-148    836 CAGACGAAGAGCCAAGAGGGGAG---------------------------    858
+
+119452497-119   3066 CTCTCTCTATATATATATATATAATTTCTTTTTGGATATATAAATTTACA   3115
+                                                .|||.||||             |
+c14826216-148    859 ---------------------------GTTTCTGGA-------------A    868
+
+119452497-119   3116 CC--TTGTAGCTTTGAGTCAGAATTAAATATTTTCTGTATTTGATGACTG   3163
+                     ||  |.|||      ||   |||          |||              
+c14826216-148    869 CCAGTGGTA------AG---GAA----------TCT--------------    885
+
+119452497-119   3164 TGTAGTCAGGGTTCACTGTGGGATACAGAAACCACTAGATATTTTAAGCA   3213
+                              ||||||.||            |||.|               
+c14826216-148    886 ---------GGTTCAGTG------------ACCTC---------------    899
+
+119452497-119   3214 GCAAAGGATTCAATACAGGCAATTAGGTTTTAGGCAGGTCTTCTTAGAAT   3263
+                          .||.|||    |||||| .|||    ||.|||...||        
+c14826216-148    900 -----CGAATCA----AGGCAA-GAGG----AGCCAGCCATT--------    927
+
+119452497-119   3264 AACTCCTGAAACAATAGGAAATTGATCCATTAGAGGAGGCAATACCTCTG   3313
+                        |.|||..|      ||||.|.|||||         ||    |.||||
+c14826216-148    928 ---TGCTGGGA------GAAAATCATCCA---------GC----CATCTG    955
+
+119452497-119   3314 AGGCTGTCATTGGAGCTGTGCCACAGCCCAAGTAGCACTGGCACTAGGGA   3363
+                     |...|||| .|||..||.|||                |||||      ||
+c14826216-148    956 AAAATGTC-CTGGTCCTTTGC----------------CTGGC------GA    982
+
+119452497-119   3364 CCTGAAGTATGGAAGCTGCCATCCAGGGATTAGGGAGCTGAATGAAGAAG   3413
+                                                                       
+c14826216-148    983 --------------------------------------------------    982
+
+119452497-119   3414 TCGCTGCTATAGTCAGTTTCTGAATACCTAGGAACTTTCAAGAAAACTAG   3463
+                        ||||||   ||.|||    ||.|||                  ||| 
+c14826216-148    983 ---CTGCTA---TCTGTT----AACACC------------------CTA-   1003
+
+119452497-119   3464 CTTCT----TAACAACAACAGCCAGAACTCCCAGTAAGGTGGTCTCTGTC   3509
+                     |||||    |||                    |||   |||| ||   ||
+c14826216-148   1004 CTTCTGGGATAA--------------------AGT---GTGG-CT---TC   1026
+
+119452497-119   3510 TCACTT---ACACCTTCTAAG-TTTTATGCAGATGCATCAGATGGTGGAA   3555
+                     .|||||   |....||||||| |||||.||     ||  ||.||  |.||
+c14826216-148   1027 CCACTTGGGAGTATTTCTAAGTTTTTAGGC-----CA--AGTTG--GAAA   1067
+
+119452497-119   3556 CCCAATTCACAGCATCCTAGC-AGCTAAGTAGAATGGTAGGAAGTGGTAG   3604
+                     ..|||..||.|.||.||.|.| |.|.||                      
+c14826216-148   1068 AACAAAACAAACCAACCAACCAAACAAA----------------------   1095
+
+119452497-119   3605 TAGAATAGGTGGAAAAATACAGTTTTAAGC-------TTTCCAG------   3641
+                                .|||||..|||||    ||       |||||||      
+c14826216-148   1096 -----------CAAAAACTCAGTT----GCCCAACTTTTTCCAGACAACA   1130
+
+119452497-119   3642 -CCTCTGCAAGCAGAAGAGAGTGGATAGGTTGAGAAT-GTCAGTGATAGG   3689
+                      |||     |||||             ||||  |||| |.|||||     
+c14826216-148   1131 ACCT-----AGCAG-------------GGTT--GAATCGCCAGTG-----   1155
+
+119452497-119   3690 ATAGGTTGAGAGTATCATTAAAATGTAATTAATTGTTCACCAATTTCTTT   3739
+                                                            |...|||||||
+c14826216-148   1156 ---------------------------------------CTGCTTTCTTT   1166
+
+119452497-119   3740 AAATGGGGATTGAGTTGAGCGGACCAAAAAAATTATGCTGACATTTCTTC   3789
+                     |||.|||||   ||    |.|||                           
+c14826216-148   1167 AAAGGGGGA---AG----GGGGA---------------------------   1182
+
+119452497-119   3790 AACTTTCTGATTATTTTGTTTTTGATTAGGATTGGGCCGAGCCTATGCCC   3839
+                                                  ||||||| .||.||||     
+c14826216-148   1183 -----------------------------GATTGGG-AGAACCTA-----   1197
+
+119452497-119   3840 TGGCTTTTGCAGAAAGAGGAGCGTTAGTTGTTGGTAAGTTGGTGTGTTTT   3889
+                       .|||||..|.|.|    |.||||         |.|||.|         
+c14826216-148   1198 --ACTTTTTTAAATA----AACGTT---------TGAGTGG---------   1223
+
+119452497-119   3890 TCTTTTTAATCTGTAGCTGATAACTGAAATACAATCTTTACAAGCTATCT   3939
+                         |||||          |.||..|||| |||           |||   
+c14826216-148   1224 ----TTTAA----------ACAAAAGAAA-ACA-----------CTA---   1244
+
+119452497-119   3940 TTGTCTTTCTAT-CAA-ATAATTTGTCAAGGTTGAATTTTATTATTAATT   3987
+                               || ||| |||.||| ||..||..|                
+c14826216-148   1245 ----------ATGCAACATAGTTT-TCCTGGACG----------------   1267
+
+119452497-119   3988 TTTACTTTTGCCAGAAGGTTTTTACCCCGACTAAGGCTGTCTGTCTAAAT   4037
+                      ..|||.|  ||.|||.||     |||.|.|||| .|||.|.| ||..||
+c14826216-148   1268 -CGACTGT--CCGGAAAGT-----CCCTGTCTAA-CCTGCCAG-CTCCAT   1307
+
+119452497-119   4038 TA-CTTTTAAAAGGGAACCAGTTTCACAGAATTCCCAGCTTAACAGAATT   4086
+                     .| |||      |||||          |||  ||.||.|..|||..|.||
+c14826216-148   1308 GAGCTT------GGGAA----------AGA--TCTCATCCAAACCTATTT   1339
+
+119452497-119   4087 GATAACGAAGG--GCTAGGGGGTAGGCATGCTGGCTTGTGGCTATAACTC   4134
+                     .|.||.|||.|  ||..|.|.||..|..|| ||   ||||..|.|     
+c14826216-148   1340 AAAAAGGAATGCAGCGTGTGTGTGTGTGTG-TG---TGTGTGTGT-----   1380
+
+119452497-119   4135 CAGTGACTCAGGAGGCTGAG---GTGGGAGGATCGCTTGAGACCAGGAGT   4181
+                       |||           ||.|   |||.|.|       ||||    |||| 
+c14826216-148   1381 --GTG-----------TGTGTGTGTGTGTG-------TGAG----GGAG-   1405
+
+119452497-119   4182 TCGAGCCTGCAGAGAACTATGATTATACCACTGCACTCCAA--TCTGGGT   4229
+                                |.|.||    ||||.|.|||.|.|.||.||  |||.|  
+c14826216-148   1406 -----------GGGGAC----ATTAAATCACAGAATTCTAAACTCTCG--   1438
+
+119452497-119   4230 GATGGCGCAAAAAAAACCCTGTTTCTCACAGAAAA-------GGG-----   4267
+                                     |||   ||.||||||||||       |||     
+c14826216-148   1439 ----------------CCC---TTTTCACAGAAAAATCATGTGGGCAACC   1469
+
+119452497-119   4268 --TGGGGACAAGCATTTATTGTATAAAAGG---------------AAATT   4300
+                       ||.||| ||||||          .||||               |||| 
+c14826216-148   1470 CATGAGGA-AAGCAT----------GAAGGTACGCTGTCGCTCTCAAAT-   1507
+
+119452497-119   4301 CTTGACTTCAGTAAATTGTAGGCTGTAATTTTTTGA------GACAGG--   4342
+                          ..|||||||...|||||.| |||...|.|.|      ||||.|  
+c14826216-148   1508 -----AATCAGTAACCAGTAGGAT-TAAAAATCTAATCAAAGGACAAGAC   1551
+
+119452497-119   4343 ----AGGTTTGTCTACTGGTGCGAGATC------AAAAGAGAG-------   4375
+                         |..|||           |.|||.|      |||||.|||       
+c14826216-148   1552 ACACACATTT-----------CCAGAACGCTAATAAAAGCGAGGGACCGC   1590
+
+119452497-119   4376 ------CCCCT---GTAAGTGTATTGATAAAAGTAAGAAA----------   4406
+                           .||||   |.|||||..||.||     |..|..|          
+c14826216-148   1591 CGGGATTCCCTTGGGAAAGTGGTTTCAT-----TTTGTGATCGTTTCTCC   1635
+
+119452497-119   4407 ----TAACTGA-----ATTTTGAGAACTGGAAGTTTGGAGTCAAGG--AA   4445
+                         |||||||     ||||   .||.|     |||..||.|..||  |.
+c14826216-148   1636 TCCGTAACTGATGCTCATTT---CAATT-----TTTTCAGACGTGGCCAT   1677
+
+119452497-119   4446 TCTAAAGTATGGGTTTCT--------TGACTCTTTCATCAAA-ACTTTTC   4486
+                     ||    ||   |||.|||        .||||||..||.|||| ||.||||
+c14826216-148   1678 TC----GT---GGTCTCTGGACGCCCAGACTCTGACAGCAAAGACGTTTC   1720
+
+119452497-119   4487 AGC---------------TGGAAGTGTT----TTAAAAAAATTTAATTGA   4517
+                     .||               |||||  .||    |||             ||
+c14826216-148   1721 TGCAGCCAACAGGCTTTGTGGAA--CTTCCGCTTA-------------GA   1755
+
+119452497-119   4518 GG----GGGCAGTTACATGAGTTTTTGTTTGTGGAGGGGTCAGATGGAAG   4563
+                     ||    |||||||||.|||       |.||||||                
+c14826216-148   1756 GGGACAGGGCAGTTAGATG-------GATTGTGG----------------   1782
+
+119452497-119   4564 ATACTGTATTGAAGAATCCTAAAGG--TGGG---AGGTTTTAGT---AAT   4605
+                                  .||.|..|||||  ||||   |||   .|||   |  
+c14826216-148   1783 -------------TAAACGCAAAGGACTGGGCCAAGG---AAGTCCCA--   1814
+
+119452497-119   4606 CTGCATGGTTTGGACTGATCTAATGTGCTTGACAGTTGG---TGTGGACA   4652
+                     |||.||  |.|||||    ||  |.|.|||..|  .|||   ||||.|||
+c14826216-148   1815 CTGGAT--TCTGGAC----CT--TCTCCTTTCC--CTGGGCCTGTGAACA   1854
+
+119452497-119   4653 CAGAAACGAATTTGTCCACAACTG-----AGCCTTTCTGGGGAATAACTA   4697
+                      |||.|.||       .||||.||     .|||.|.||||          
+c14826216-148   1855 -AGACAGGA-------GACAAGTGTGGTTTGCCCTCCTGG----------   1886
+
+119452497-119   4698 AATGGGTGCTAAGTGCAGGGGGATATGTAGGACCCAGTACTTATTAGCAT   4747
+                                ||.|||||.||           |||              
+c14826216-148   1887 -----------AGCGCAGGTGG-----------CCA--------------   1900
+
+119452497-119   4748 ATTTCCTGGGATAAAACTGTGGGCCCACAATGATCTTCTAATTTCAGCTT   4797
+                                      ||.|.|||| |||  |||     |.|.||...|
+c14826216-148   1901 -----------------TGGGTGCCC-CAA--ATC-----AGTGCAAACT   1925
+
+119452497-119   4798 TCTGACATCTTAACGAGGCAATACAGAGAGACGAATTTTCATCAGTTTGT   4847
+                     ||||      ||||    |||   |||.||.|          ||||   |
+c14826216-148   1926 TCTG------TAAC----CAA---AGAAAGCC----------CAGT---T   1949
+
+119452497-119   4848 TCAGGG--AGACACATATA-----ACAAAAGAGTAAGCAAGCAACC-AGG   4889
+                     ||||||  |||     |||     ||.|   .||||     .|||| |||
+c14826216-148   1950 TCAGGGGAAGA-----ATACGTGGACCA---GGTAA-----AAACCTAGG   1986
+
+119452497-119   4890 --TTT---TCTAA--ACAAGCC------------CTAAG--CAGAGCACT   4918
+                       |||   |||.|  ||||.||            ||.||  |||.|||  
+c14826216-148   1987 GCTTTAGCTCTGATCACAACCCCCTGCCTGCTATCTGAGTCCAGTGCA--   2034
+
+119452497-119   4919 TGATACACTTTTCTCCTTCATTGTGGATGTGTAGCTTATCTTTATGGAAG   4968
+                      ||.||...|             |||.|.||.||||.|||||.||     
+c14826216-148   2035 -GAAACGGGT-------------TGGTTTTGAAGCTAATCTTGAT-----   2065
+
+119452497-119   4969 GAACACTGACGCTTTGGATGTTCCTTGT--TTAAGATCATAGGCACTGT-   5015
+                                         |.||||||  ||  |||    ||||..|| 
+c14826216-148   2066 --------------------TGCCTTGTGGTT--GAT----GGCAAGGTC   2089
+
+119452497-119   5016 CTGCTAATCCAATCTGCTTCTTCTGGCAGGGATGAATTTTGACATTGTAT   5065
+                     ||||..|.|||    |.|.||||||              ||||..||.||
+c14826216-148   2090 CTGCACAGCCA----GGTCCTTCTG--------------TGACCGTGGAT   2121
+
+119452497-119   5066 TATTTGGACAGCGAGTATATATTTCAGGCC--CACTTTGTCAGATTTTCC   5113
+                           ||.|||       |.||||   ||  ||||     |||      
+c14826216-148   2122 ------GAGAGC-------TGTTTC---CCAGCACT-----AGA------   2144
+
+119452497-119   5114 CAAGAATAGCTCATGTTGAGGCCTAAAGACACATGCTGTTACTATTTTTA   5163
+                      ||||             |||||    |.||                   
+c14826216-148   2145 -AAGA-------------AGGCC----GGCA-------------------   2157
+
+119452497-119   5164 ATTTTCCTTCCTTTTTATGTTGCTATTTAGTTCTTAATATTTTTACCTTA   5213
+                                                                       
+c14826216-148   2158 --------------------------------------------------   2157
+
+119452497-119   5214 TATGTTTTTATTTATTTACATCTTTTCTG----CTCAATTCCATAACGGC   5259
+                                    |||.|.||.|||.|    ||   .||..|||.|||
+c14826216-148   2158 ---------------TTAGAGCTCTTCGGGGGCCT---GTCACTAAGGGC   2189
+
+119452497-119   5260 AAGGATCTTGTTTTATCTTTTGTATCTACTAAAGGACCTAGAATATTTCT   5309
+                     |                  .|||..||||          |||        
+c14826216-148   2190 A------------------GTGTTGCTAC----------AGA--------   2203
+
+119452497-119   5310 TTGTGCAAAGAAGGTACTTTGTTCATTGGTTCTTTTATTGTTGATATACT   5359
+                                            ||.|||               .|||||
+c14826216-148   2204 -----------------------CAGTGG---------------CATACT   2215
+
+119452497-119   5360 -TTTCTGGGGGAAGGGTGTGTTTGAGATTGGTTGAATACATTTCTTTTTT   5408
+                      ||.||  |||.|||...|| |||||.|.|                    
+c14826216-148   2216 CTTCCT--GGGCAGGACATG-TTGAGGTGG--------------------   2242
+
+119452497-119   5409 TTGTTCTTGACTAAGATATAAACT-TAGTTTATAAACCT-GTTTTGTAAA   5456
+                                  |||.||.|||| .||.|      .|| ||||||....
+c14826216-148   2243 -------------AGACATTAACTCCAGGT------GCTGGTTTTGCTCG   2273
+
+119452497-119   5457 AAATTTTATAACAGTGTGTTCCTGTGCA---------TCAATTTTCCTTT   5497
+                     ||||                 ||.||||         |||  ||||| |.
+c14826216-148   2274 AAAT-----------------CTCTGCAGACTGGGGTTCA--TTTCC-TG   2303
+
+119452497-119   5498 ATTTCCCTGTTCCCTCTCAATTTCTTAAATTCAGATTAGGAGTATTTGAA   5547
+                     |.||||||    |||||                        ||       
+c14826216-148   2304 AGTTCCCT----CCTCT------------------------GT-------   2318
+
+119452497-119   5548 TTCTAAGAAAAAATTAAACAGAGATGCTGTGTCTATCTATTTTGTCATTG   5597
+                                  ||||.|||   ||.||.|||  ||.|||..||.|.||
+c14826216-148   2319 -------------TTAATCAG---TGTTGGGTC--TCCATTCAGTGAGTG   2350
+
+119452497-119   5598 CA---TTATTATAGTAGAGATGATAATTGTGTCAAGTCCTGATAAAAGTC   5644
+                     ||   |..||||.|             .||.|||..||||        ||
+c14826216-148   2351 CAGCTTGTTTATGG-------------GGTCTCAGCTCCT--------TC   2379
+
+119452497-119   5645 CAAGAATATAGAAGAAAAATATTTCATAAACTTGAATGAAGAGCCAGATT   5694
+                     |.|                     |..|.|||        |..||..|||
+c14826216-148   2380 CCA---------------------CCCACACT--------GTCCCCTATT   2400
+
+119452497-119   5695 TAGTTTAGTATTAAGGAGGAGAATTCAATCCATGTGGAAGTGCAGAAATT   5744
+                     |.|           |||             ||||||              
+c14826216-148   2401 TGG-----------GGA-------------CATGTG--------------   2412
+
+119452497-119   5745 TTGACTGATGTTTTCTATTCCTTTTTAAAGTCTGTGTCTTA-CCTGTTAG   5793
+                                   ||...||..|.|||     .|||||.| |||    |
+c14826216-148   2413 --------------CTTCACCCCTCTAA-----TTGTCTCACCCT----G   2439
+
+119452497-119   5794 CCTTTTTACATGTACACCATAGACACCGTGTTTCCAAGTTGCATCACACA   5843
+                     ||           |||.|||||.|                          
+c14826216-148   2440 CC-----------ACAGCATAGCC--------------------------   2452
+
+119452497-119   5844 CACTAATTTTTTTTTTTTTTTTGAGATGGAG-TCTTGCTCTGTTGCCCAG   5892
+                                       ||.||   |||.| ||.||.|||.|    |||
+c14826216-148   2453 ------------------TTCTG---TGGGGTTCCTGGTCTTT----CAG   2477
+
+119452497-119   5893 GCTGGAGTGCAGTGGCGTGATCTTGGCTCACTGCAACGTCTGCCTCCGGG   5942
+                     |                 |||.|      ||       |.|.|.|||.||
+c14826216-148   2478 G-----------------GATGT------AC-------TATTCTTCCTGG   2497
+
+119452497-119   5943 TTCAAGCAGTTCTCTGCCTTAGCCTCCCAAGTAGCTGGGATTACAGGCGC   5992
+                     |.||||.|   ||.||..|              |.||||           
+c14826216-148   2498 TCCAAGGA---CTGTGTGT--------------GGTGGG-----------   2519
+
+119452497-119   5993 CTGCCACCAAGCCTGGCTAATTTTTTTTTTTTTTTTTTTAAGTAAAGATG   6042
+                                  |||||                                
+c14826216-148   2520 -------------TGGCT--------------------------------   2524
+
+119452497-119   6043 CGGTTTCACCATCTTGGCCA-GGCTGGTCTTGAACTCCTGACCTCTTTTT   6091
+                      ||            |||.| |||||||||            ||.||.| 
+c14826216-148   2525 -GG------------GGCTAGGGCTGGTCT------------CTATTAT-   2548
+
+119452497-119   6092 AGAAGTGGCATGTCACTTCTACCGACATTTCAT---------TGG-CCAA   6131
+                        |.|||       .|||||||  ||.|.|||         ||| ||  
+c14826216-148   2549 ---ACTGG-------TTTCTACC--CAGTACATGGTGCTTAGTGGTCC--   2584
+
+119452497-119   6132 AGGAAATCATTTGGCTAAGCCAAAAGTTAGGGGC---ATCAT-----TTA   6173
+                                ||||.|.||           .||   |||||     .||
+c14826216-148   2585 -----------TGGCAATGC-----------TGCACTATCATGGTAACTA   2612
+
+119452497-119   6174 AGATAGTCTCCAATTTTGTGTTAATATGATTGCTATGTTTTAT--ATTCC   6221
+                     |.|||             |||.|||| .|||  |||.||||||  |   |
+c14826216-148   2613 ACATA-------------TGTAAATA-AATT--TATTTTTTATGGA---C   2643
+
+119452497-119   6222 ATAATATAAAGCTTATGGGATATTTAAATTTGGTATAAGAACTGCTAAGC   6271
+                     |.||                                              
+c14826216-148   2644 AAAA----------------------------------------------   2647
+
+119452497-119   6272 CTTAGGCTGATACTGTAAAAAGGGACATTTGCTTTTGTGTAAATTACATC   6321
+                                                                       
+c14826216-148   2648 --------------------------------------------------   2647
+
+119452497-119   6322 TTTCAGGAAATGCTTGTGCATTTCTTAAGTAGGTTATTGGGAATTCAGTA   6371
+                                                                       
+c14826216-148   2648 --------------------------------------------------   2647
+
+119452497-119   6372 GTTTTGAGGTTTCCTCAGTAGGTGAGCTATATCTAGTTCTCTGAATAGTA   6421
+                                                                       
+c14826216-148   2648 --------------------------------------------------   2647
+
+119452497-119   6422 AGTTTTATTTTGAGGACATAAACACAAGAAGGACTGACAAAAAGGAGCAA   6471
+                                                                       
+c14826216-148   2648 --------------------------------------------------   2647
+
+119452497-119   6472 AAAGAACTCCTTAGTAAAAGAAAGGGAGTTCTACTCTTGAACTGAAGTAA   6521
+                                                                       
+c14826216-148   2648 --------------------------------------------------   2647
+
+119452497-119   6522 CACCTTTGGGTAAATTGAATTACAATCTTTTTAAGTAAGATTGACATGAC   6571
+                                                                       
+c14826216-148   2648 --------------------------------------------------   2647
+
+119452497-119   6572 TTTTCCGTGCTACAGTTACATAATAATGGTAAAGCTGAGTCTTAACTTCC   6621
+                                                                       
+c14826216-148   2648 --------------------------------------------------   2647
+
+119452497-119   6622 TGTGGCCTGATGCTAGAGCCATTGTTTTTAACCCCTATGGGATCTTGACA   6671
+                                                                       
+c14826216-148   2648 --------------------------------------------------   2647
+
+119452497-119   6672 GCTGGAAGGTGAACTGTAGTGGGCAAGGTGCATTGCCTTTGAAGTCAGGC   6721
+                                                                       
+c14826216-148   2648 --------------------------------------------------   2647
+
+119452497-119   6722 CAAGTTTTAAATCCTGGCTCTGCTGCCTAATTATATGACCTCTCTGTTTA   6771
+                                                                       
+c14826216-148   2648 --------------------------------------------------   2647
+
+119452497-119   6772 TAGCTGTCTTAGCTAACTTCCGGGATTATGGTGAGGGTAAATGACAAAAA   6821
+                                                                       
+c14826216-148   2648 --------------------------------------------------   2647
+
+119452497-119   6822 ATTAAAGACTTTCGGAAAGGGAAGAGAAAGGAACCAATATCAGTCCCTGC   6871
+                                                                       
+c14826216-148   2648 --------------------------------------------------   2647
+
+119452497-119   6872 TTACCATATATGACTCACTCTGCTCAAGAACTGGATATATCAAAGTGAAG   6921
+                                                                       
+c14826216-148   2648 --------------------------------------------------   2647
+
+119452497-119   6922 GTCTTGTTGACTGAGGTCTTGTTGACTCAAGGCACATCCTAGCCCCCTTA   6971
+                                                                       
+c14826216-148   2648 --------------------------------------------------   2647
+
+119452497-119   6972 TACATGTTTCTCCTAGATGCTTAAAGGAAAAGCTCTGTGTCTTAGTCTGT   7021
+                                                                       
+c14826216-148   2648 --------------------------------------------------   2647
+
+119452497-119   7022 TTTCTGTTGCTTATAACAGAACACTTAAAACCGGGTAATGTATTTTAAAA   7071
+                                                                       
+c14826216-148   2648 --------------------------------------------------   2647
+
+119452497-119   7072 AAGGAATTTATTTCTTATAGTTATGTAGGCTGAGTAGGCCAGTGCTGAGG   7121
+                                                                       
+c14826216-148   2648 --------------------------------------------------   2647
+
+119452497-119   7122 GGCTACATCTGGTGAGGAGGGCCTCCTTTCTGGTGGGGACTCTGTAGAGT   7171
+                                                                       
+c14826216-148   2648 --------------------------------------------------   2647
+
+119452497-119   7172 CCCGAGATGGCACAGGGCGTCACAGGGCAAGAGGCTGAGTGTGCTGGCTC   7221
+                                                                       
+c14826216-148   2648 --------------------------------------------------   2647
+
+119452497-119   7222 TCGTCTCTTTTCCTCTTCTTATAAAGCCACTAGTCTCACTCCCATGATAA   7271
+                                                                       
+c14826216-148   2648 --------------------------------------------------   2647
+
+119452497-119   7272 CCTGTTAATTCATTACCCGATTAATCTATTAGTCCATGAATAGATTAATG   7321
+                                                                       
+c14826216-148   2648 --------------------------------------------------   2647
+
+119452497-119   7322 CATTTATAAGGGCAGAGCCCTCACAATTCAATCACTTTTTAAAGGCCCCA   7371
+                                                                       
+c14826216-148   2648 --------------------------------------------------   2647
+
+119452497-119   7372 CATCTCTTTTTTTTTTTTTTTGAGAGGGAGTCTCCCTCTTTTGCCCAGGC   7421
+                                                                       
+c14826216-148   2648 --------------------------------------------------   2647
+
+119452497-119   7422 CGGACTGCAGTGGCGCTATCTCGGCTCACTGCAAGCTCCACCTCCCGGGT   7471
+                                                                       
+c14826216-148   2648 --------------------------------------------------   2647
+
+119452497-119   7472 TCACGCCATTCTCCTGCCTCAGCCTCCTAAGTAGCTGGGACTACAGGTGC   7521
+                                                                       
+c14826216-148   2648 --------------------------------------------------   2647
+
+119452497-119   7522 CTGCCACCGTGCCCAGCTAATTTTTTTTTTTGTATTTTTAGTAGAGATGG   7571
+                                                                       
+c14826216-148   2648 --------------------------------------------------   2647
+
+119452497-119   7572 AGTTTCACTGTGTTAGCCAGGATGGTCTCGATCTCCTGACCTCGTGATCC   7621
+                                                                       
+c14826216-148   2648 --------------------------------------------------   2647
+
+119452497-119   7622 GCCCGCCTCGGCCTCCCAAAGTGCAGGGATTACAGGTGTGAGCCACTGTG   7671
+                                                                       
+c14826216-148   2648 --------------------------------------------------   2647
+
+119452497-119   7672 CCCGGCCAAGGCCCCACATCTCTATACTGTCACATCAGGGATTAAATTTC   7721
+                                                                       
+c14826216-148   2648 --------------------------------------------------   2647
+
+119452497-119   7722 AATGTGAGTTTTGGAGGGGCTAAATATTTAAACCATCCCAGGCTGCTTTA   7771
+                                                                       
+c14826216-148   2648 --------------------------------------------------   2647
+
+119452497-119   7772 GGCACTGATACACTCTCCGCAACGGTAAGTATAGTACTTAGTAATCAAGA   7821
+                                                                       
+c14826216-148   2648 --------------------------------------------------   2647
+
+119452497-119   7822 ATATATACTGATTGAATAAGTGAAACTGATATAATACAGGGAGAAAGATC   7871
+                                                                       
+c14826216-148   2648 --------------------------------------------------   2647
+
+119452497-119   7872 ATAAGAAGGCACATGTGAATTCCAGCTGATAATAAATGAGCCGTACATGA   7921
+                                                                       
+c14826216-148   2648 --------------------------------------------------   2647
+
+119452497-119   7922 AATACCCACATCTCCCTTGGATACCTCCATGACTATCACCAATCTGGATT   7971
+                                                                       
+c14826216-148   2648 --------------------------------------------------   2647
+
+119452497-119   7972 ATGGGGGAAAACCTTTGAATAAATTTAGAGTAGCTCTTAGCTATTTGTCA   8021
+                                                                       
+c14826216-148   2648 --------------------------------------------------   2647
+
+119452497-119   8022 TTTTAAGAGCTAGAGTAGTTCTTAGCAAGTCGTTATTTTGTCATTTGCCA   8071
+                                                                       
+c14826216-148   2648 --------------------------------------------------   2647
+
+119452497-119   8072 GTTTTAAAAAAAGTAATAAGGTTAATAGACTTAACATCAAATAGATTCAT   8121
+                                                                       
+c14826216-148   2648 --------------------------------------------------   2647
+
+119452497-119   8122 TTATTCATCTAACATGTATTTATTAAGCGTCTATTATGTAGCAAACACTG   8171
+                                                                       
+c14826216-148   2648 --------------------------------------------------   2647
+
+119452497-119   8172 TTCTAGATGCCAGAGGAATATAGTGGGAATAAAACAGAGTCCCTACTTTC   8221
+                                                                       
+c14826216-148   2648 --------------------------------------------------   2647
+
+119452497-119   8222 ATGGTGCATATATTCTAGTGGGGAGTAGTGGAGGGACAGATAATCAAGAA   8271
+                                                                       
+c14826216-148   2648 --------------------------------------------------   2647
+
+119452497-119   8272 ATACATATGTAAAAATATAATAGATGTAGGTGCTGTGGAGAAAAAAATGA   8321
+                                                                       
+c14826216-148   2648 --------------------------------------------------   2647
+
+119452497-119   8322 GTGAATGGAACAGAAAATGCTTTAAGGAGAGACTGCAGGAAGTGAAGGAG   8371
+                                                                       
+c14826216-148   2648 --------------------------------------------------   2647
+
+119452497-119   8372 TGCGCCTTGAGGAGATCTGCTGTCGCGGCATCCCTGGCAGAAGAAGCAGC   8421
+                                                                       
+c14826216-148   2648 --------------------------------------------------   2647
+
+119452497-119   8422 TGAAGCCAGGTTACTGAGGCTGCAGCAGGCATGGTATGTTTTAGGGTTAG   8471
+                                                                       
+c14826216-148   2648 --------------------------------------------------   2647
+
+119452497-119   8472 GAAGGGAGCCAGTGTGGTTATATAGCGAGCAAGGTCATAAGGGAGACAAA   8521
+                                                                       
+c14826216-148   2648 --------------------------------------------------   2647
+
+119452497-119   8522 AGTGAGAGATGAGGGCAGAGGGGTCCTAGAAGGCCAGATCACATAGGACC   8571
+                                                                       
+c14826216-148   2648 --------------------------------------------------   2647
+
+119452497-119   8572 TTTAGTTCAGAGTAAGGACTAACTTTTACCCTGAGATGGGGTAAAAAGCA   8621
+                                                                       
+c14826216-148   2648 --------------------------------------------------   2647
+
+119452497-119   8622 ATGTACATAATAGTCATCAAGTAATATTGATGCTCAGATATGAACTTTAT   8671
+                                                                       
+c14826216-148   2648 --------------------------------------------------   2647
+
+119452497-119   8672 TTCTCTCTCAACATTTCAGTAAAGGAATTTATGATTCATATCTTATGTAA   8721
+                                                                       
+c14826216-148   2648 --------------------------------------------------   2647
+
+119452497-119   8722 CAAAGAATTAAGATCTTTTATAAATAAAGGACATTTACAAATCTATAAGC   8771
+                                                                       
+c14826216-148   2648 --------------------------------------------------   2647
+
+119452497-119   8772 AAGTATCCCAAATAAAATGTGAACTAAATAGGCAAAACAATAATAAATAT   8821
+                                                                       
+c14826216-148   2648 --------------------------------------------------   2647
+
+119452497-119   8822 AAATATAAGCCATGAAAATAAAATATTACTTTACTAGTGCTCAAAAAAAT   8871
+                                                                       
+c14826216-148   2648 --------------------------------------------------   2647
+
+119452497-119   8872 GTAGACTAAAATAATGAGCTACAAATTATAATCATGTAATTGTCAGACTG   8921
+                                                                       
+c14826216-148   2648 --------------------------------------------------   2647
+
+119452497-119   8922 AAGGCAATGATAATAACCAATGTTGTGAGAATGTGGGGTAACAGGCATTC   8971
+                                                                       
+c14826216-148   2648 --------------------------------------------------   2647
+
+119452497-119   8972 TCACAAACACGTGGTTCTATTTTCAGGCTATTGATGCCTGATAATTTGGT   9021
+                                                                       
+c14826216-148   2648 --------------------------------------------------   2647
+
+119452497-119   9022 ACCTTGTACTTAGTTATCTATTTACCTACTTATAGAATACTTTTTATCGG   9071
+                                                                       
+c14826216-148   2648 --------------------------------------------------   2647
+
+119452497-119   9072 ATCTAAGTGTGTTTTAGAATTCCTTGGATCCTGGCTGGGTGCAGTGGCTC   9121
+                                                                       
+c14826216-148   2648 --------------------------------------------------   2647
+
+119452497-119   9122 ACGCCTGTAATCCCAACAGTTTGGGAGGCTGAGGCAGGAGGATTGCTTGA   9171
+                                                                       
+c14826216-148   2648 --------------------------------------------------   2647
+
+119452497-119   9172 GGCCATGAGTTTAAGACCAGCCTGGGCAACATAGCAAGGCCCGCTGTCTT   9221
+                                                                       
+c14826216-148   2648 --------------------------------------------------   2647
+
+119452497-119   9222 TGCCAAAAAAAAAAAAAAAAAGCCACGTGTGGTGGTGCATGCCTGTAGTC   9271
+                                                                       
+c14826216-148   2648 --------------------------------------------------   2647
+
+119452497-119   9272 TTAGCTACTCAGGAGGCTGAGGCAGGAGGATGGTTTGAGCCTGGGAGTTT   9321
+                                                                       
+c14826216-148   2648 --------------------------------------------------   2647
+
+119452497-119   9322 GAGACTTCAATGAGCTATCATTGTGTCACTGCACTCAGCCTGGGTGACAG   9371
+                                                                       
+c14826216-148   2648 --------------------------------------------------   2647
+
+119452497-119   9372 TGATACCCTGTCTCAAGAAAAAACGAAAAGGATTTCCCAATATTCGTACA   9421
+                                                                       
+c14826216-148   2648 --------------------------------------------------   2647
+
+119452497-119   9422 TTCCCAATATAGCACGTATTTGACAAAATTTTGGGAATGCTTTTTAGGAA   9471
+                                                                       
+c14826216-148   2648 --------------------------------------------------   2647
+
+119452497-119   9472 AAATCTTCTGTAGTTAATAGACTGTCCGAGTCACTGATTTATTTAAAATG   9521
+                                                                       
+c14826216-148   2648 --------------------------------------------------   2647
+
+119452497-119   9522 ACAGAAACAAGGAAAAGATTTATGTTAAAAAAAACCCTCCAGGGTTATGA   9571
+                                                                       
+c14826216-148   2648 --------------------------------------------------   2647
+
+119452497-119   9572 ACTAGATTTTATATGGAAAATGTACAAATGTATCACACTTTGGAACATTT   9621
+                                                                       
+c14826216-148   2648 --------------------------------------------------   2647
+
+119452497-119   9622 TGATAGTTTCAGCTGAAAAGACTTGACCCTTGACTATCATAGTCTTACCA   9671
+                                                                       
+c14826216-148   2648 --------------------------------------------------   2647
+
+119452497-119   9672 TTTTTTGCTACCTATTTGAAAGCTATTTGAGTTGGGTGGTTGATTTATCT   9721
+                                                                       
+c14826216-148   2648 --------------------------------------------------   2647
+
+119452497-119   9722 TTTGCTTCATATCCTCCCCCAACAAATGTGATTTTTTTTTTTTTTTTTTT   9771
+                                                                       
+c14826216-148   2648 --------------------------------------------------   2647
+
+119452497-119   9772 TTTTTTTTTTTTTTTTGCTTAGTGGAACTAATGATCTTTTTAGGGTAAAA   9821
+                                                                       
+c14826216-148   2648 --------------------------------------------------   2647
+
+119452497-119   9822 GAAACTTGCTTAACACATTTGAGGAGCAGAGTGGTACTGTAGTAGGTCCA   9871
+                                                                       
+c14826216-148   2648 --------------------------------------------------   2647
+
+119452497-119   9872 ATTTCTAGTGTAAATTTTGCCGTTTCTTATAGACTTAGGGACCCGTGGTA   9921
+                                                                       
+c14826216-148   2648 --------------------------------------------------   2647
+
+119452497-119   9922 GGATAATCTTTTCCAAACTGTTTTCTTATCTGTGAAAGTAGGAACAATTG   9971
+                                                                       
+c14826216-148   2648 --------------------------------------------------   2647
+
+119452497-119   9972 TTACTGCCACTCTCTTAAAAAGCTATCTGGAGATTAAATGCATCAGTGTA  10021
+                                                                       
+c14826216-148   2648 --------------------------------------------------   2647
+
+119452497-119  10022 CATAGTAGTTTTATTGAAATGTGAAGTACACACATATCAGTATAAGTTAT  10071
+                                                                       
+c14826216-148   2648 --------------------------------------------------   2647
+
+119452497-119  10072 TATTATTACTACTAGAATTTTAGCTATACGTTTAAGTGGTAACAGTGTCA  10121
+                                                                       
+c14826216-148   2648 --------------------------------------------------   2647
+
+119452497-119  10122 CATGTTATGGATACAATTCTCTTTGTATATAATTGCAAAAAGTATTTTTA  10171
+                                                                       
+c14826216-148   2648 --------------------------------------------------   2647
+
+119452497-119  10172 ATGTTCTTTCTATATCTAAGCTTTTCAGCATGTACCAATGATTTTCTTTT  10221
+                                                                       
+c14826216-148   2648 --------------------------------------------------   2647
+
+119452497-119  10222 CTTATTATTTTTAATTGACACATACATATTTATGGGGTACAGTGTGATAT  10271
+                                                                       
+c14826216-148   2648 --------------------------------------------------   2647
+
+119452497-119  10272 TTTCATACCTTTATACAGTGTGTAATGATCAAATCAGTAATTAGCATATC  10321
+                                                                       
+c14826216-148   2648 --------------------------------------------------   2647
+
+119452497-119  10322 CATCGCCTCAAACATTTATCCTTTCTTTGCATTGGGAACATTCAAAATCC  10371
+                                                                       
+c14826216-148   2648 --------------------------------------------------   2647
+
+119452497-119  10372 TCTCTTCTAGCTATTTGAAAATATAGTATAAATTATTGTTGGCCATAATC  10421
+                                                                       
+c14826216-148   2648 --------------------------------------------------   2647
+
+119452497-119  10422 ACCCTAGAGTACTATACACCACTAGAACTTATTCCTTCTATTTAGTTGTA  10471
+                                                                       
+c14826216-148   2648 --------------------------------------------------   2647
+
+119452497-119  10472 ATTTTGTATTGGTTAATCAATCTCTTCCTATTCCCCTCTTCCCTGCTACC  10521
+                                                                       
+c14826216-148   2648 --------------------------------------------------   2647
+
+119452497-119  10522 CTTCCCAGCCTCTAGTAACCAGTATTATACTCTGTACTTCTGTGAGATCA  10571
+                                                                       
+c14826216-148   2648 --------------------------------------------------   2647
+
+119452497-119  10572 ACTTATTTAGCTTCCACATATGAGTGAAAACATGATGTATTTATCTTTCT  10621
+                                                                       
+c14826216-148   2648 --------------------------------------------------   2647
+
+119452497-119  10622 GTGCCTGGCTTATTTTACTTAACATAATTTCCTCCAGGCTCATCCATGTT  10671
+                                                                       
+c14826216-148   2648 --------------------------------------------------   2647
+
+119452497-119  10672 GCTGAAAATGACAGGATTTCATTTTTTTAATGGCCAAATAGTATTCCATT  10721
+                                                                       
+c14826216-148   2648 --------------------------------------------------   2647
+
+119452497-119  10722 ATGTATTGTGTGCCACATTTTCTTTATCCATGCATCTGTTGATGAACGCT  10771
+                                                                       
+c14826216-148   2648 --------------------------------------------------   2647
+
+119452497-119  10772 TAGGCCGGTTCCATATCTTGACTATTGTGAATAGTGCTGCAGTAAACATG  10821
+                                                                       
+c14826216-148   2648 --------------------------------------------------   2647
+
+119452497-119  10822 GGAATGCAGATACCTCTTTGACATACTGATTTCCTTTCCTTTGGGTTATA  10871
+                                                                       
+c14826216-148   2648 --------------------------------------------------   2647
+
+119452497-119  10872 TATACCCAGCAATGGGATTAATTCATATGGTAGTTCTGTTTTTAGTTTTT  10921
+                                                                       
+c14826216-148   2648 --------------------------------------------------   2647
+
+119452497-119  10922 TTGAATAACCTCCATACTATTTTCCATAATGGCTGTACTAATTTACATTT  10971
+                                                                       
+c14826216-148   2648 --------------------------------------------------   2647
+
+119452497-119  10972 CCACCAATAATATATGAGAGTTTCATTTTCTTCACATTTTTGTCATCCTT  11021
+                                                                       
+c14826216-148   2648 --------------------------------------------------   2647
+
+119452497-119  11022 TGTTATTTTTTTTTTTTTTGCCTTTTTGATAGTAGCCATTCTAACTTGAA  11071
+                                                                       
+c14826216-148   2648 --------------------------------------------------   2647
+
+119452497-119  11072 ATGATCTCATTGTGATTTTGATTTGCATTTTCCTCATGATTAGTGATGTT  11121
+                                                                       
+c14826216-148   2648 --------------------------------------------------   2647
+
+119452497-119  11122 GAACATTTT  11130
+                              
+c14826216-148   2648 ---------   2647
+
+
+#---------------------------------------
+#---------------------------------------
