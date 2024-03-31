@@ -23,7 +23,7 @@
     <li>
         <strong>HSD17B4 Gene - Model Organism (Mouse - Mus musculus)</strong>
         <ul>
-            <li>Gene ID: 15491</li>
+            <li>Gene ID: 17681</li>
             <li>Accession: NM_008291.3</li>
             <li><a href="https://www.ncbi.nlm.nih.gov/gene?Db=gene&Cmd=DetailsSearch&Term=17681">Link</a></li>
         </ul>
@@ -39,7 +39,7 @@
     <li>
         <strong>ACOX1 Gene - Model Organism (Mouse - Mus musculus)</strong>
         <ul>
-            <li>Gene ID: 11425</li>
+            <li>Gene ID: 11430</li>
             <li>Accession: NM_007393.4</li>
             <li><a href="https://www.ncbi.nlm.nih.gov/gene?Db=gene&Cmd=DetailsSearch&Term=11430">Link</a></li>
         </ul>
