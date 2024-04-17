@@ -1,4 +1,5 @@
 # Изучение сходства ортологичных последовательностей генов у разных организмов (Study of the similarity of orthologous gene sequences in different organisms)
+![image](https://github.com/benmasud/nsu-bio-informatics-1/assets/69720999/800369aa-9c3b-4bd4-8293-f0ee36761a3c)
 
 Я выбрал фенотип <strong>дефицита `D-бифункционального белка` `D-bifunctional protein deficiency DBP` </strong>, вот его краткое описание.
 <br>
