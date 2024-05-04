@@ -53,12 +53,15 @@ Glyceraldehyde-3-phosphate dehydrogenase, often simply called GAPDH, is a vital 
       <td>2614</td>
     </tr>
     <tr>
-      <td>Trachypithecus francoisi </td>
-      <td>Row 3, Col 2</td>
-      <td>Row 3, Col 3</td>
+       <td>Rhinopithecus roxellana </td>
+      <td>GAPDH</td>
+      <td>Golden snub-nosed monkey</td>
+      <td>Золотистая курносая обезьяна</td>
+      <td>32%</td>
+      <td>2158</td>
     </tr>
     <tr>
-      <td>Rhinopithecus roxellana </td>
+       <td>Trachypithecus francoisi </td>
       <td>GAPDH</td>
       <td>Francois’ leaf monkey</td>
       <td>Листовая обезьяна Франсуа</td>
