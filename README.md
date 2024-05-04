@@ -45,72 +45,72 @@ Glyceraldehyde-3-phosphate dehydrogenase, often simply called GAPDH, is a vital 
       <td>3628</td>
     </tr>
     <tr>
-      <td>Pan paniscus</td>
       <td>GAPDH</td>
+      <td>Pan paniscus</td>
       <td>Bonobo </td>
       <td>Боно́бо</td>
       <td>36%</td>
       <td>2614</td>
     </tr>
     <tr>
+       <td>GAPDH</td>
        <td>Rhinopithecus roxellana </td>
-      <td>GAPDH</td>
       <td>Golden snub-nosed monkey</td>
       <td>Золотистая курносая обезьяна</td>
       <td>32%</td>
       <td>2158</td>
     </tr>
     <tr>
+       <td>GAPDH</td>
        <td>Trachypithecus francoisi </td>
-      <td>GAPDH</td>
       <td>Francois’ leaf monkey</td>
       <td>Листовая обезьяна Франсуа</td>
       <td>32%</td>
       <td>2205</td>
     </tr>
     <tr>
+       <td>GAPDH</td>
       <td>Pongo pygmaeus</td>
-      <td>GAPDH</td>
       <td>Bornean orangutan</td>
       <td>Калиманта́нский орангута́н</td>
       <td>32%</td>
       <td>2272</td>
     </tr>
     <tr>
+       <td>GAPDH</td>
       <td>Macaca fascicularis </td>
-      <td>GAPDH</td>
       <td>Crab-eating macaque</td>
       <td>Макак-крабоед</td>
       <td>34%</td>
       <td>2258</td>
     </tr>
     <tr>
+       <td>GAPDH</td>
       <td>Chlorocebus sabaeus </td>
-      <td>GAPDH</td>
       <td>Green monkey</td>
       <td>Зелёная мартышка</td>
       <td>32%</td>
       <td>2187</td>
     </tr>
     <tr>
-      <td>Pongo abelii  </td>
       <td>cDNA DKFZp468E2417 </td>
+      <td>Pongo abelii  </td>
       <td>Sumatran orangutan</td>
       <td>Суматра́нский орангута́н </td>
       <td>32%</td>
       <td>2266</td>
     </tr>
     <tr>
-      <td>Symphalangus syndactylus </td>
       <td>GAPDH</td>
+      <td>Symphalangus syndactylus </td>
       <td>Siamang</td>
       <td>Сиама́нг </td>
       <td>32%</td>
       <td>2273</td>
     </tr>
     <tr>
-      <td>Macaca thibetana thibetana </td>
       <td>GAPDH</td>
+      <td>Macaca thibetana thibetana </td>
       <td>Tibetan macaque</td>
       <td>тибе́тский мака́к</td>
       <td>34%</td>
