@@ -1,7 +1,7 @@
 # Визуализация структуры белка (Protein structure visualization)
 
-ПО - [PyMol (Software) ]([url](https://pymol.org/))
-Белок(protein) - [DEOXY HUMAN HEMOGLOBIN (PDB ID: 1A3N)]([url](https://www.rcsb.org/structure/1A3N))
+ПО - [PyMol (Software)](https://pymol.org/)
+Белок(protein) - [DEOXY HUMAN HEMOGLOBIN (PDB ID: 1A3N)](https://www.rcsb.org/structure/1A3N)
 
 ![Protein 1A3N](https://github.com/benmasud/nsu-bio-informatics-1/assets/69720999/716bbc7a-4f99-4503-a59d-cfd5bc64c784)
 
