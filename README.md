@@ -51,6 +51,7 @@ ps. large files are avoided due to the size
 
 <div style="text-align: center;">
   <img src="https://github.com/benmasud/nsu-bio-informatics-1/blob/Assignment-4/Assignment-4/others/flow2.png" alt="flow2">
+   <br>
   <figcaption>Рис. 1 - График на основе данных (Graph based on the data)</figcaption>
 </div>
 
@@ -58,6 +59,7 @@ ps. large files are avoided due to the size
 
 <div style="text-align: center;">
   <img src="https://github.com/benmasud/nsu-bio-informatics-1/blob/Assignment-4/Assignment-4/others/logs_1.png" alt="logs_1">
+   <br>
   <figcaption>Рис. 2 - Общие логи запуска пайплайна (General pipeline run logs)</figcaption>
 </div>
 
