@@ -49,12 +49,14 @@ ps. large files are avoided due to the size
 
 ## Разбор результатов работы пайплайна (Analysis of pipeline results)
 <figure>
-![flow2](https://github.com/user-attachments/assets/d6d3f653-68e5-45c3-88ae-8eb6cda2fb38)
+![flow2](https://github.com/user-attachments/assets/c8aac59e-24b1-4d9f-93e3-addb68e2a8ed)
+
   <figcaption> Рис. 1 - График на основе данных (Graph based on the data ) </figcaption>
 </figure>
 
 <figure>
-![logs_1](https://github.com/user-attachments/assets/b18bf87d-3db6-4af3-86e0-9d60ec756ca5)
+![logs_1](https://github.com/user-attachments/assets/6b31b41d-d3c2-479b-a1b3-965f1156f0c0)
+
   <figcaption> Рис. 2 - Общие логи запуска пайплайна (General pipeline run logs) </figcaption>
 </figure>
 
