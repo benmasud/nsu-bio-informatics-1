@@ -15,19 +15,19 @@
 <br>
 
 1. **Bash Script**  
-   _File:_ `shell_pipeline.sh`
+   _File:_ `shell.sh`
 
 2. **Flagstat Result**  
    _File:_ `flagstat.txt`
 
 3. **Flagstat Parsing Script**  
-   _File:_ `flagstat_qc.py`
+   _File:_ `flagstat_script.py`
 
 4. **Pipeline Helloworld**  
-   _File:_ `hellopipeline.py`
+   _File:_ `simple_pipeline_test.py`
 
 5. **Pipeline Code**  
-   _File:_ `pipeline3.py`
+   _File:_ `pipeline.py`
 
 ps. large files are avoided due to the size 
 
