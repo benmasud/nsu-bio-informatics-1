@@ -49,10 +49,12 @@ ps. large files are avoided due to the size
 
 ## Разбор результатов работы пайплайна (Analysis of pipeline results)
 
-<div style="text-align: center; margin-bottom: 20px;">
+<div style="text-align: center;">
   <img src="https://github.com/benmasud/nsu-bio-informatics-1/blob/Assignment-4/Assignment-4/others/flow2.png" alt="flow2">
   <figcaption>Рис. 1 - График на основе данных (Graph based on the data)</figcaption>
 </div>
+
+<br>
 
 <div style="text-align: center;">
   <img src="https://github.com/benmasud/nsu-bio-informatics-1/blob/Assignment-4/Assignment-4/others/logs_1.png" alt="logs_1">
