@@ -1,10 +1,10 @@
 ##fileformat=VCFv4.2
 ##fileDate=20241110
 ##source=freeBayes v1.3.6
-##reference=./biofiles/index/input.fna
+##reference=./materials/index/input.fna
 ##contig=<ID=NC_000913.3,length=4641652>
 ##phasing=none
-##commandline="freebayes -f ./biofiles/index/input.fna ./output.sorted.bam"
+##commandline="freebayes -f ./materials/index/input.fna ./output.sorted.bam"
 ##INFO=<ID=NS,Number=1,Type=Integer,Description="Number of samples with data">
 ##INFO=<ID=DP,Number=1,Type=Integer,Description="Total read depth at the locus">
 ##INFO=<ID=DPB,Number=1,Type=Float,Description="Total read depth per bp at the locus; bases in reads overlapping / bases in haplotype">
