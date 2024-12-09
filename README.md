@@ -3,7 +3,7 @@
 **Используемая последовательность белка (Protein Sequence Used)**
 ```MKGMLTGPVTILNWSWPREDITHEEQTKQLALAIRDEVLDLEAAGIKIIQIDEAALREKLPLRKSDWHAKYLDWAIPAFRLVHSAVKPTTQIHTHMCYSE```
 
-<br>
+
 ## **Рабочий процесс**
 
 ### 1. **Прогнозирование структуры**
